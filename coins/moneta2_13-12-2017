@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+moneta2,Moneta,MONETA,1307,0.000501295,0.00000003,3.77693,,,,,-1.27,-3.97,-18.48,1513187654,0.032305455,243.40047692,
+moneta2,Moneta,MONETA,1307,0.000502218,0.00000003,3.78388,,,,,-0.45,-3.85,-18.24,1513187956,0.0323327948,243.6061944,
+moneta2,Moneta,MONETA,1307,0.000496074,0.00000003,3.73759,,,,,-1.31,-5.13,-19.04,1513188554,0.0319372441,240.6260442,
+moneta2,Moneta,MONETA,1307,0.000492575,0.00000003,3.71123,,,,,-1.86,-5.81,-19.56,1513188854,0.0317119785,238.9289874,
+moneta2,Moneta,MONETA,1308,0.000492575,0.00000003,3.71123,,,,,-1.86,-5.81,-19.56,1513188854,0.0317119785,238.9289874,

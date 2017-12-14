@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+psilocybin,Psilocybin,PSY,1321,0.029431,0.00000169,,,,,,,0.08,,1513124357,1.896651364,,
+psilocybin,Psilocybin,PSY,1321,0.029431,0.00000169,,,,,,,-0.03,,1513124357,1.89476778,,
+psilocybin,Psilocybin,PSY,1321,0.029431,0.00000169,,,,,,,-0.08,,1513124357,1.89476778,,
+psilocybin,Psilocybin,PSY,1321,0.029431,0.00000169,,,,,,,-0.1,,1513124357,1.89476778,,
+psilocybin,Psilocybin,PSY,1322,0.029431,0.00000169,,,,,,,-0.1,,1513124357,1.89476778,,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+tokugawa,Tokugawa,TOK,1107,0.443145,0.00002652,19934.5,,,1021644.0,,-1.14,-9.01,,1513187692,28.55803638,1284658.918,
+tokugawa,Tokugawa,TOK,1106,0.443961,0.00002652,19971.2,,,1021644.0,,-0.79,-9.11,,1513187992,28.58220918,1285745.856,
+tokugawa,Tokugawa,TOK,1106,0.438529,0.00002652,19726.9,,,1021644.0,,-1.43,-10.64,,1513188593,28.23249702,1270017.822,
+tokugawa,Tokugawa,TOK,1106,0.438529,0.00002652,19726.9,,,1021644.0,,-1.43,-10.64,,1513188593,28.23249702,1270017.822,
+tokugawa,Tokugawa,TOK,1107,0.435437,0.00002652,19587.7,,,1021644.0,,-1.86,-11.16,,1513188891,28.03343406,1261056.126,

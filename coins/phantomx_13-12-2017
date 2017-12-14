@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+phantomx,Phantomx,PNX,1172,0.0131841,0.00000079,1086.9,,,10793135.0,,-1.27,-6.25,-28.41,1513187689,0.8496361404,70044.1836,
+phantomx,Phantomx,PNX,1172,0.0132083,0.00000079,1088.9,,,10793135.0,,-0.79,-6.13,-27.92,1513187990,0.850350354,70103.382,
+phantomx,Phantomx,PNX,1173,0.0130467,0.00000079,1075.58,,,10793135.0,,-1.43,-7.38,-28.44,1513188590,0.839946546,69245.8404,
+phantomx,Phantomx,PNX,1172,0.0130467,0.00000079,1075.58,,,10793135.0,,-1.43,-7.38,-28.44,1513188590,0.839946546,69245.8404,
+phantomx,Phantomx,PNX,1174,0.0129547,0.00000079,1068.32,,,10793135.0,,-1.86,-8.03,-29.0,1513188889,0.834023586,68778.4416,

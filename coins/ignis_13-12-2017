@@ -1,0 +1,2 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+ignis,Ignis,IGNIS,25,2.09807,0.00012688,18157.0,923150800.0,440000000.0,1000000000.0,,,,,1513188593,135.0737466,1168947.66,59432448504.0

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+nekonium,Nekonium,NUKO,1120,0.103267,0.00000618,11066.8,,,17691754.0,,6.92,18.35,70.61,1513187691,6.654938548,713188.8592,
+nekonium,Nekonium,NUKO,1120,0.103457,0.00000618,11087.1,,,17691754.0,,7.64,18.36,72.92,1513187993,6.66056166,713787.498,
+nekonium,Nekonium,NUKO,1119,0.102191,0.00000618,10951.5,,,17691754.0,,-0.01,16.53,72.33,1513188594,6.57905658,705057.57,
+nekonium,Nekonium,NUKO,1119,0.102191,0.00000618,10951.5,,,17691754.0,,-0.01,16.53,72.33,1513188594,6.57905658,705057.57,
+nekonium,Nekonium,NUKO,1120,0.101471,0.00000618,10874.3,,,17691754.0,,-1.11,15.78,71.11,1513188891,6.53270298,700087.434,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+blockchain-index,Blockchain Index,BLX,1131,4.00088,0.00023943,6635.73,,,438439.0,,-3.26,10.36,28.12,1513187679,257.83271072,427632.98412,
+blockchain-index,Blockchain Index,BLX,1131,4.02361,0.00024035,6673.42,,,438439.0,,-2.41,11.12,28.83,1513187981,259.0400118,429634.7796,
+blockchain-index,Blockchain Index,BLX,1130,3.98306,0.00024087,6606.17,,,438439.0,,-1.8,10.11,27.57,1513188583,256.4294028,425305.2246,
+blockchain-index,Blockchain Index,BLX,1130,3.96152,0.00024127,6570.44,,,438439.0,,-2.33,9.56,26.82,1513188879,255.0426576,423004.9272,
+blockchain-index,Blockchain Index,BLX,1131,3.96152,0.00024127,6570.44,,,438439.0,,-2.33,9.56,26.82,1513188879,255.0426576,423004.9272,

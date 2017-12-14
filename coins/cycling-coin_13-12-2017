@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+cycling-coin,Cycling Coin,CYC,1262,0.00150389,0.00000009,46.817,,,,,-1.14,-4.58,-7.34,1513187653,0.0969166872,3017.074748,
+cycling-coin,Cycling Coin,CYC,1262,0.00150665,0.00000009,46.9032,,,,,-0.79,-4.55,-7.12,1513187953,0.096998127,3019.628016,
+cycling-coin,Cycling Coin,CYC,1262,0.00148822,0.00000009,46.3293,,,,,-1.43,-5.81,-8.23,1513188552,0.0958116036,2982.680334,
+cycling-coin,Cycling Coin,CYC,1262,0.00147773,0.00000009,46.0026,,,,,-1.86,-6.33,-8.82,1513188852,0.0951362574,2961.647388,
+cycling-coin,Cycling Coin,CYC,1263,0.00147773,0.00000009,46.0026,,,,,-1.86,-6.33,-8.82,1513188852,0.0951362574,2961.647388,

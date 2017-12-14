@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+lepen,LePen,LEPEN,1230,0.0000871245,0.000000005,139.88,,,,,-2.67,-18.67,-21.96,1513187666,0.0056146513,9014.42672,
+lepen,LePen,LEPEN,1230,0.0000868666,0.000000005,140.076,,,,,-2.5,-19.22,-22.2,1513187968,0.0055924717,9018.09288,
+lepen,LePen,LEPEN,1230,0.0000875703,0.000000005,139.227,,,,,-1.46,-19.16,-21.59,1513188567,0.0056377759,8963.43426,
+lepen,LePen,LEPEN,1230,0.0000858064,0.000000005,137.619,,,,,-3.24,-21.07,-23.17,1513188863,0.005524216,8859.91122,
+lepen,LePen,LEPEN,1231,0.0000858064,0.000000005,137.619,,,,,-3.24,-21.07,-23.17,1513188863,0.005524216,8859.91122,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+alphabitcoinfund,Alphabit,ABC,1155,26.0695,0.00156013,2226.47,,,210000000.0,,-1.13,-3.92,25.92,1513187658,1680.022858,143482.63268,
+alphabitcoinfund,Alphabit,ABC,1155,26.1168,0.00156009,2230.52,,,210000000.0,,-0.78,-3.8,26.05,1513187959,1681.399584,143600.8776,
+alphabitcoinfund,Alphabit,ABC,1155,25.8017,0.00156035,2203.57,,,210000000.0,,-1.29,-5.06,24.36,1513188558,1661.113446,141865.8366,
+alphabitcoinfund,Alphabit,ABC,1155,25.6223,0.00156051,2188.23,,,210000000.0,,-1.83,-5.74,23.43,1513188857,1649.563674,140878.2474,
+alphabitcoinfund,Alphabit,ABC,1156,25.6223,0.00156051,2188.23,,,210000000.0,,-1.83,-5.74,23.43,1513188857,1649.563674,140878.2474,

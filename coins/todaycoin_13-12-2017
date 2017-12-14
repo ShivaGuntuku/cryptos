@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+todaycoin,TodayCoin,TODAY,1309,0.00116969,0.00000007,3.11906,,,,,-1.27,,-1.59,1513187661,0.0753795024,201.00470264,
+todaycoin,TodayCoin,TODAY,1309,0.00117184,0.00000007,3.1248,,,,,-0.79,,-1.36,1513187960,0.0754430592,201.174624,
+todaycoin,TodayCoin,TODAY,1309,0.00115751,0.00000007,3.08657,,,,,-1.31,,-2.55,1513188561,0.0745204938,198.7133766,
+todaycoin,TodayCoin,TODAY,1309,0.00114934,0.00000007,3.0648,,,,,-1.86,,-3.24,1513188859,0.0739945092,197.311824,
+todaycoin,TodayCoin,TODAY,1310,0.00114934,0.00000007,3.0648,,,,,-1.86,,-3.24,1513188859,0.0739945092,197.311824,

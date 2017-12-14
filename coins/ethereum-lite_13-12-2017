@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+ethereum-lite,Ethereum Lite,ELITE,1141,0.29254,0.00001751,4350.96,,,1000000.0,,-2.55,8.54,-11.4,1513187685,18.85244776,280393.26624,
+ethereum-lite,Ethereum Lite,ELITE,1141,0.293673,0.00001754,4368.06,,,1000000.0,,-1.88,8.61,-11.01,1513187986,18.90666774,281215.7028,
+ethereum-lite,Ethereum Lite,ELITE,1141,0.290347,0.00001756,4240.21,,,1000000.0,,-1.89,6.65,-11.97,1513188587,18.69253986,272984.7198,
+ethereum-lite,Ethereum Lite,ELITE,1141,0.288547,0.00001757,4214.01,,,1000000.0,,-2.32,6.14,-12.49,1513188885,18.57665586,271297.9638,
+ethereum-lite,Ethereum Lite,ELITE,1142,0.288547,0.00001757,4214.01,,,1000000.0,,-2.32,6.14,-12.49,1513188885,18.57665586,271297.9638,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+karmacoin,Karmacoin,KARMA,1314,0.000173415,0.00000001,,,,78616614065.0,,,,36.04,1513023843,0.0111755563,,
+karmacoin,Karmacoin,KARMA,1314,0.000173415,0.00000001,,,,78616864065.0,,,,36.04,1513023843,0.0111644577,,
+karmacoin,Karmacoin,KARMA,1314,0.000173415,0.00000001,,,,78616864065.0,,,,36.02,1513023843,0.0111644577,,
+karmacoin,Karmacoin,KARMA,1314,0.000173415,0.00000001,,,,78616864065.0,,,,36.01,1513023843,0.0111644577,,
+karmacoin,Karmacoin,KARMA,1315,0.000173415,0.00000001,,,,78616864065.0,,,,36.01,1513023843,0.0111644577,,

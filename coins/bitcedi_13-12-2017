@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+bitcedi,Bitcedi,BXC,1235,0.00509828,0.00000031,115.046,,,,,-2.24,9.08,33.35,1513187658,0.3285535563,7414.024424,
+bitcedi,Bitcedi,BXC,1235,0.00511823,0.00000031,115.403,,,,,-1.37,9.53,33.7,1513187960,0.3295116474,7429.64514,
+bitcedi,Bitcedi,BXC,1235,0.0050374,0.00000030,113.78,,,,,-2.48,7.89,31.42,1513188558,0.324307812,7325.1564,
+bitcedi,Bitcedi,BXC,1235,0.00501077,0.00000031,113.071,,,,,-2.77,7.39,30.67,1513188858,0.3225933726,7279.51098,
+bitcedi,Bitcedi,BXC,1236,0.00501077,0.00000031,113.071,,,,,-2.77,7.39,30.67,1513188858,0.3225933726,7279.51098,

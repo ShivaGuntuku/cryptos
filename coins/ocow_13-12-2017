@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+ocow,OCOW,OCOW,1289,0.00584845,0.00000035,13.411,,,,,-1.14,-3.97,,1513187658,0.3768975118,864.258484,
+ocow,OCOW,OCOW,1289,0.00585921,0.00000035,13.4357,,,,,-0.79,-3.85,,1513187958,0.3772159398,864.990366,
+ocow,OCOW,OCOW,1289,0.00578753,0.00000035,13.2713,,,,,-1.31,-5.13,,1513188559,0.3726011814,854.406294,
+ocow,OCOW,OCOW,1289,0.00574671,0.00000035,13.1777,,,,,-1.86,-5.81,,1513188857,0.3699731898,848.380326,
+ocow,OCOW,OCOW,1290,0.00574671,0.00000035,13.1777,,,,,-1.86,-5.81,,1513188857,0.3699731898,848.380326,

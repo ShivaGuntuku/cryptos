@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+altcommunity-coin,AltCommunity Coin,ALTCOM,606,5.02118,0.00030049,3286.71,723582.0,144106.0,213534.0,,-1.25,-5.72,10.0,1513187687,323.58492392,211808.73924,46630528.0
+altcommunity-coin,AltCommunity Coin,ALTCOM,605,5.02928,0.00030042,3316.65,724821.0,144120.0,213548.0,,-0.79,-5.67,10.01,1513187987,323.7850464,213525.927,46663977.0
+altcommunity-coin,AltCommunity Coin,ALTCOM,605,4.96775,0.00030042,3271.02,715953.0,144120.0,213548.0,,-1.44,-7.06,8.62,1513188587,319.823745,210588.2676,46093074.0
+altcommunity-coin,AltCommunity Coin,ALTCOM,605,4.93271,0.00030042,3247.95,710903.0,144120.0,213548.0,,-1.86,-7.72,7.86,1513188886,317.5678698,209103.021,45767956.0
+altcommunity-coin,AltCommunity Coin,ALTCOM,606,4.93271,0.00030042,3247.95,710903.0,144120.0,213548.0,,-1.86,-7.72,7.86,1513188886,317.5678698,209103.021,45767956.0

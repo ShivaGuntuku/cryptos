@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+thecreed,TheCreed,TCR,1216,0.000334197,0.00000002,238.962,,,,,-0.97,-34.17,-35.46,1513187661,0.0215369915,15399.667128,
+thecreed,TheCreed,TCR,1216,0.000334812,0.00000002,239.402,,,,,-0.65,-34.7,-35.37,1513187958,0.0215551966,15412.70076,
+thecreed,TheCreed,TCR,1215,0.000330716,0.00000002,236.473,,,,,-1.43,-36.75,-36.24,1513188557,0.0212914961,15224.13174,
+thecreed,TheCreed,TCR,1215,0.000328384,0.00000002,234.805,,,,,-1.71,-37.23,-36.73,1513188864,0.0211413619,15116.7459,
+thecreed,TheCreed,TCR,1216,0.000328384,0.00000002,234.805,,,,,-1.71,-37.23,-36.73,1513188864,0.0211413619,15116.7459,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+accelerator-network,Accelerator Network,ACC,567,5.02626,0.0003008,1700.38,1091661.0,217192.0,285441.0,,-5.22,-12.32,-9.45,1513187689,323.91229944,109579.28872,70350999.0
+accelerator-network,Accelerator Network,ACC,566,5.05481,0.00030195,1710.03,1097862.0,217192.0,285441.0,,-2.6,-11.72,-8.83,1513187991,325.4286678,110091.7314,70680341.0
+accelerator-network,Accelerator Network,ACC,563,5.10292,0.0003086,1650.32,1108311.0,217192.0,285441.0,,-0.34,-10.79,-7.75,1513188591,328.5259896,106247.6016,71353053.0
+accelerator-network,Accelerator Network,ACC,562,5.10292,0.0003086,1650.32,1108311.0,217192.0,285441.0,,-0.34,-10.79,-7.75,1513188591,328.5259896,106247.6016,71353053.0
+accelerator-network,Accelerator Network,ACC,564,5.07532,0.00030911,1641.4,1102316.0,217192.0,285441.0,,-0.59,-11.33,-8.22,1513188890,326.7491016,105673.332,70967128.0

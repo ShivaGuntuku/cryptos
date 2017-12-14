@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+mtmgaming,MTMGaming,MTM,982,0.0128045,0.00000076,,38413.0,2999967.0,5000000.0,,,-3.88,,1513149563,0.825173198,,2475492.0
+mtmgaming,MTMGaming,MTM,984,0.0128045,0.00000076,,38413.0,2999967.0,5000000.0,,,-3.88,,1513149563,0.82435371,,2473034.0
+mtmgaming,MTMGaming,MTM,981,0.0128045,0.00000076,,38413.0,2999967.0,5000000.0,,,-3.93,,1513149563,0.82435371,,2473034.0
+mtmgaming,MTMGaming,MTM,981,0.0128045,0.00000076,,38413.0,2999967.0,5000000.0,,,-3.99,,1513149563,0.82435371,,2473034.0
+mtmgaming,MTMGaming,MTM,982,0.0128045,0.00000076,,38413.0,2999967.0,5000000.0,,,-3.99,,1513149563,0.82435371,,2473034.0

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+bitalphacoin,BitAlphaCoin,BAC,1258,0.00401036,0.00000024,64.8533,,,,,-1.14,-19.83,-0.06,1513187656,0.2584436398,4179.4060652,
+bitalphacoin,BitAlphaCoin,BAC,1258,0.00401775,0.00000024,64.9726,,,,,-0.79,-19.49,0.08,1513187956,0.258662745,4182.935988,
+bitalphacoin,BitAlphaCoin,BAC,1258,0.00396859,0.00000024,64.1778,,,,,-1.43,-20.1,-1.28,1513188560,0.2554978242,4131.766764,
+bitalphacoin,BitAlphaCoin,BAC,1258,0.0039406,0.00000024,63.7251,,,,,-1.86,-20.44,-1.98,1513188855,0.253695828,4102.621938,
+bitalphacoin,BitAlphaCoin,BAC,1259,0.0039406,0.00000024,63.7251,,,,,-1.86,-20.44,-1.98,1513188855,0.253695828,4102.621938,

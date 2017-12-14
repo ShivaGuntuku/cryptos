@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+infchain,InfChain,INF,1076,0.0126793,0.00000076,347891.0,,,,,-3.08,-1.16,-17.83,1513187678,0.8171048092,22419487.604,
+infchain,InfChain,INF,1076,0.0126832,0.00000076,347994.0,,,,,-3.23,-1.13,-17.82,1513187978,0.816544416,22403853.72,
+infchain,InfChain,INF,1076,0.0126354,0.00000076,346674.0,,,,,-3.16,-1.43,-18.16,1513188581,0.813467052,22318872.12,
+infchain,InfChain,INF,1076,0.0126204,0.00000077,346209.0,,,,,-3.28,-1.46,-18.25,1513188876,0.812501352,22288935.42,
+infchain,InfChain,INF,1077,0.0126204,0.00000077,346209.0,,,,,-3.28,-1.46,-18.25,1513188876,0.812501352,22288935.42,

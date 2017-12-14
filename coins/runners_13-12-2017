@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+runners,Runners,RUNNERS,1224,0.000167098,0.00000001,170.096,,,,,-1.27,-3.99,8.89,1513187684,0.0107684635,10961.666624,
+runners,Runners,RUNNERS,1225,0.000167406,0.00000001,170.409,,,,,-0.79,-3.87,9.12,1513187986,0.0107775983,10970.93142,
+runners,Runners,RUNNERS,1225,0.000165358,0.00000001,168.324,,,,,-1.43,-5.15,7.67,1513188586,0.010645748,10836.69912,
+runners,Runners,RUNNERS,1225,0.000164192,0.00000001,167.137,,,,,-1.86,-5.81,6.86,1513188885,0.010570681,10760.28006,
+runners,Runners,RUNNERS,1226,0.000164192,0.00000001,167.137,,,,,-1.86,-5.81,6.86,1513188885,0.010570681,10760.28006,

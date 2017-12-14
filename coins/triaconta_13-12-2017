@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+triaconta,Triaconta,TRIA,1165,13.6394,0.00081625,1300.29,,,276001.0,,-3.26,13.02,66.91,1513187689,878.9774936,83795.88876,
+triaconta,Triaconta,TRIA,1165,13.7168,0.00081938,1307.67,,,276001.0,,-2.41,13.8,67.84,1513187990,883.087584,84187.7946,
+triaconta,Triaconta,TRIA,1166,13.5786,0.00082116,1294.49,,,276001.0,,-2.08,12.77,66.16,1513188591,874.190268,83339.2662,
+triaconta,Triaconta,TRIA,1166,13.5786,0.00082116,1294.49,,,276001.0,,-2.08,12.77,66.16,1513188591,874.190268,83339.2662,
+triaconta,Triaconta,TRIA,1167,13.5052,0.00082252,1287.49,,,276001.0,,-2.33,12.08,65.26,1513188890,869.464776,82888.6062,

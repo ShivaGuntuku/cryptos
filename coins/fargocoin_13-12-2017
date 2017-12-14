@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+fargocoin,Fargocoin,FRGC,1062,10.9802,0.00065711,2147860.0,,,476658615.0,,-0.0,0.86,6.32,1513187665,707.6080088,138416689.84,
+fargocoin,Fargocoin,FRGC,1062,10.9802,0.0006559,2147860.0,,,476660640.0,,-0.0,0.86,6.33,1513187965,706.905276,138279226.8,
+fargocoin,Fargocoin,FRGC,1062,10.9789,0.00066395,2151810.0,,,476660640.0,,-0.01,0.82,6.32,1513188564,706.821582,138533527.8,
+fargocoin,Fargocoin,FRGC,1062,10.9784,0.00066863,2152780.0,,,476660640.0,,-0.02,0.81,6.33,1513188866,706.789392,138595976.4,
+fargocoin,Fargocoin,FRGC,1063,10.9784,0.00066863,2152780.0,,,476660640.0,,-0.02,0.81,6.33,1513188866,706.789392,138595976.4,

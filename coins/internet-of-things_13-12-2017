@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+internet-of-things,Internet of Things,XOT,1162,2337.71,0.1399,1494.78,,,21000000.0,21000000.0,-1.14,-3.97,12.93,1513187670,150651.38324,96329.60232,
+internet-of-things,Internet of Things,XOT,1163,2342.01,0.1399,1497.53,,,21000000.0,21000000.0,-0.79,-3.85,13.01,1513187970,150778.6038,96410.9814,
+internet-of-things,Internet of Things,XOT,1164,2313.36,0.1399,1479.21,,,21000000.0,21000000.0,-1.43,-5.13,11.49,1513188569,148934.1168,95231.5398,
+internet-of-things,Internet of Things,XOT,1164,2297.04,0.1399,1468.77,,,21000000.0,21000000.0,-1.86,-5.81,10.65,1513188869,147883.4352,94559.4126,
+internet-of-things,Internet of Things,XOT,1165,2297.04,0.1399,1468.77,,,21000000.0,21000000.0,-1.86,-5.81,10.65,1513188869,147883.4352,94559.4126,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+avoncoin,Avoncoin,ACN,1215,0.000501295,0.00000003,256.203,,,,,-1.14,42.06,29.14,1513187666,0.032305455,16510.746132,
+avoncoin,Avoncoin,ACN,1215,0.000502218,0.00000003,256.675,,,,,-0.45,40.3,29.25,1513187970,0.0323327948,16524.7365,
+avoncoin,Avoncoin,ACN,1214,0.000496074,0.00000003,253.535,,,,,-1.43,34.77,27.51,1513188565,0.0319372441,16322.5833,
+avoncoin,Avoncoin,ACN,1214,0.000492575,0.00000003,251.747,,,,,-1.86,32.06,26.61,1513188865,0.0317119785,16207.47186,
+avoncoin,Avoncoin,ACN,1215,0.000492575,0.00000003,251.747,,,,,-1.86,32.06,26.61,1513188865,0.0317119785,16207.47186,

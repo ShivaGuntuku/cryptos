@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+aseancoin,Aseancoin,ASN,1257,0.00417746,0.00000025,65.9195,,,,,-1.14,-26.08,-59.23,1513187677,0.2692122322,4248.116258,
+aseancoin,Aseancoin,ASN,1257,0.00418515,0.00000025,66.0409,,,,,-0.45,-25.41,-59.14,1513187979,0.269439957,4251.713142,
+aseancoin,Aseancoin,ASN,1257,0.00413395,0.00000025,65.2329,,,,,-1.28,-25.25,-59.6,1513188579,0.266143701,4199.694102,
+aseancoin,Aseancoin,ASN,1257,0.00410479,0.00000025,64.7728,,,,,-1.86,-25.21,-59.88,1513188875,0.2642663802,4170.072864,
+aseancoin,Aseancoin,ASN,1258,0.00410479,0.00000025,64.7728,,,,,-1.86,-25.21,-59.88,1513188875,0.2642663802,4170.072864,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+cubits,Cubits,QBT,1234,0.00329564,0.00000020,126.914,,,,,-1.47,-1.29,3.78,1513187663,0.2123842242,8178.845816,
+cubits,Cubits,QBT,1234,0.00330039,0.00000020,127.124,,,,,-0.99,-1.17,3.95,1513187963,0.2124791082,8184.24312,
+cubits,Cubits,QBT,1234,0.0032675,0.00000020,125.721,,,,,-1.57,-2.21,3.48,1513188564,0.21036165,8093.91798,
+cubits,Cubits,QBT,1234,0.00323938,0.00000020,124.73,,,,,-2.15,-3.06,2.59,1513188861,0.2085512844,8030.1174,
+cubits,Cubits,QBT,1235,0.00323938,0.00000020,124.73,,,,,-2.15,-3.06,2.59,1513188861,0.2085512844,8030.1174,

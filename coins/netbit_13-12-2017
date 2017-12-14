@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+netbit,netBit,NBIT,1115,0.107409,0.00000643,14205.3,,,,,5.22,25.61,648.53,1513187666,6.921865596,915446.3532,
+netbit,netBit,NBIT,1114,0.107607,0.00000643,14231.5,,,,,5.57,25.47,649.82,1513187963,6.92773866,916223.97,
+netbit,netBit,NBIT,1115,0.10629,0.00000643,14057.4,,,,,4.53,23.2,639.79,1513188562,6.8429502,905015.412,
+netbit,netBit,NBIT,1115,0.105541,0.00000643,13958.2,,,,,2.95,22.02,634.13,1513188862,6.79472958,898628.916,
+netbit,netBit,NBIT,1116,0.105541,0.00000643,13958.2,,,,,2.95,22.02,634.13,1513188862,6.79472958,898628.916,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+chronologic,Chronologic,DAY,1110,6.38801,0.00038229,17451.2,,,763931.0,,9.28,47.63,45.71,1513187680,411.66891644,1124625.1328,
+chronologic,Chronologic,DAY,1110,6.42185,0.00038361,17540.7,,,763931.0,,11.74,48.42,46.74,1513187983,413.438703,1129270.266,
+chronologic,Chronologic,DAY,1108,6.32013,0.00038221,17514.5,,,763931.0,,13.05,46.0,44.72,1513188581,406.8899694,1127583.51,
+chronologic,Chronologic,DAY,1109,6.28492,0.00038278,17415.7,,,763931.0,,12.87,45.17,43.92,1513188880,404.6231496,1121222.766,
+chronologic,Chronologic,DAY,1110,6.28492,0.00038278,17415.7,,,763931.0,,12.87,45.17,43.92,1513188880,404.6231496,1121222.766,

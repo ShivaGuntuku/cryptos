@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+future-digital-currency,Future Digital Currency,FDC,1049,0.0000190358,0.000000001,,52.0,2753201.0,1002753201.0,,,16.98,-24.2,1513182565,0.0012267431,,3377.0
+future-digital-currency,Future Digital Currency,FDC,1049,0.0000190358,0.000000001,,52.0,2753201.0,1002753201.0,,,16.76,-24.23,1513182565,0.0012255248,,3374.0
+future-digital-currency,Future Digital Currency,FDC,1049,0.0000190358,0.000000001,,52.0,2753201.0,1002753201.0,,,16.35,-24.29,1513182565,0.0012255248,,3374.0
+future-digital-currency,Future Digital Currency,FDC,1049,0.0000190358,0.000000001,,52.0,2753201.0,1002753201.0,,,16.16,-24.29,1513182565,0.0012255248,,3374.0
+future-digital-currency,Future Digital Currency,FDC,1050,0.0000190358,0.000000001,,52.0,2753201.0,1002753201.0,,,16.16,-24.29,1513182565,0.0012255248,,3374.0

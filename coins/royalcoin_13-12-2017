@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+royalcoin,RoyalCoin,ROYAL,1244,0.00334197,0.00000020,89.1542,,,2500124.0,,-1.14,-6.42,-26.58,1513187662,0.2153699147,5745.4532648,
+royalcoin,RoyalCoin,ROYAL,1244,0.00334812,0.00000020,89.3183,,,2500124.0,,-0.45,-6.3,-26.42,1513187966,0.2155519656,5750.312154,
+royalcoin,RoyalCoin,ROYAL,1244,0.00330716,0.00000020,88.2256,,,2500124.0,,-1.31,-7.54,-27.32,1513188562,0.2129149608,5679.964128,
+royalcoin,RoyalCoin,ROYAL,1244,0.00328384,0.00000020,87.6034,,,2500124.0,,-1.86,-8.21,-27.83,1513188860,0.2114136192,5639.906892,
+royalcoin,RoyalCoin,ROYAL,1245,0.00328384,0.00000020,87.6034,,,2500124.0,,-1.86,-8.21,-27.83,1513188860,0.2114136192,5639.906892,

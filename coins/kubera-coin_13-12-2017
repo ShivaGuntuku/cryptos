@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+kubera-coin,Kubera Coin,KBR,1109,0.11864,0.00000710,18562.1,,,1162102077.0,,-16.55,-17.14,,1513187690,7.64563616,1196215.9724,
+kubera-coin,Kubera Coin,KBR,1109,0.118858,0.00000710,18596.3,,,1162102077.0,,-16.14,-17.16,,1513187992,7.65207804,1197229.794,
+kubera-coin,Kubera Coin,KBR,1109,0.117404,0.00000710,17402.3,,,1162102077.0,,-16.69,-18.52,,1513188593,7.55846952,1120360.074,
+kubera-coin,Kubera Coin,KBR,1110,0.117404,0.00000710,17402.3,,,1162102077.0,,-16.69,-18.52,,1513188593,7.55846952,1120360.074,
+kubera-coin,Kubera Coin,KBR,1111,0.116576,0.00000710,17264.6,,,1162102077.0,,-14.87,-19.25,,1513188891,7.50516288,1111494.948,

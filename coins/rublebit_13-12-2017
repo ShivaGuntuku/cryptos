@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+rublebit,RubleBit,RUBIT,1179,0.00551425,0.00000033,812.479,,,,,-0.97,-4.38,18.01,1513187656,0.355360327,52359.396676,
+rublebit,RubleBit,RUBIT,1179,0.0055244,0.00000033,813.974,,,,,-0.45,-4.53,18.11,1513187964,0.355660872,52403.64612,
+rublebit,RubleBit,RUBIT,1180,0.00545618,0.00000033,804.293,,,,,-1.17,-6.12,16.51,1513188565,0.3512688684,51780.38334,
+rublebit,RubleBit,RUBIT,1180,0.00541769,0.00000033,798.618,,,,,-1.72,-7.09,15.62,1513188861,0.3487908822,51415.02684,
+rublebit,RubleBit,RUBIT,1181,0.00541769,0.00000033,798.618,,,,,-1.72,-7.09,15.62,1513188861,0.3487908822,51415.02684,

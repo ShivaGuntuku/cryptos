@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+fonziecoin,Fonziecoin,FONZ,1240,0.00116969,0.00000007,98.4013,,,,,-1.14,34.44,80.72,1513187654,0.0753795024,6341.3733772,
+fonziecoin,Fonziecoin,FONZ,1240,0.00117184,0.00000007,98.5825,,,,,-0.79,34.61,81.05,1513187953,0.0754430592,6346.74135,
+fonziecoin,Fonziecoin,FONZ,1240,0.00115751,0.00000007,97.3764,,,,,-1.16,32.8,78.52,1513188563,0.0745204938,6269.092632,
+fonziecoin,Fonziecoin,FONZ,1240,0.00114934,0.00000007,96.6896,,,,,-1.86,31.86,77.17,1513188854,0.0739945092,6224.876448,
+fonziecoin,Fonziecoin,FONZ,1241,0.00114934,0.00000007,96.6896,,,,,-1.86,31.86,77.17,1513188854,0.0739945092,6224.876448,

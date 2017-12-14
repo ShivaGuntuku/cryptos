@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+starcash-network,StarCash Network,STARS,1166,0.0301774,0.00000181,1230.96,,,867944.0,,-1.27,-73.85,-85.44,1513187687,1.9447523656,79327.98624,
+starcash-network,StarCash Network,STARS,1166,0.030233,0.00000181,1233.22,,,867968.0,,-0.79,-73.82,-85.42,1513187989,1.94640054,79394.7036,
+starcash-network,StarCash Network,STARS,1167,0.0298631,0.00000181,1218.14,,,867968.0,,-1.31,-74.16,-85.61,1513188589,1.922586378,78423.8532,
+starcash-network,StarCash Network,STARS,1167,0.0296525,0.00000181,1209.54,,,867968.0,,-1.86,-74.34,-85.71,1513188887,1.90902795,77870.1852,
+starcash-network,StarCash Network,STARS,1168,0.0296525,0.00000181,1209.54,,,867968.0,,-1.86,-74.34,-85.71,1513188887,1.90902795,77870.1852,

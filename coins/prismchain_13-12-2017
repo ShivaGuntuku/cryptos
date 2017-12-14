@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+prismchain,PrismChain,PRM,1259,0.00183808,0.00000011,62.3568,,,,,-1.14,-10.32,-8.09,1513187659,0.1184532275,4018.5216192,
+prismchain,PrismChain,PRM,1259,0.00184147,0.00000011,62.4716,,,,,-0.79,-9.87,-7.95,1513187958,0.1185538386,4021.921608,
+prismchain,PrismChain,PRM,1259,0.00181894,0.00000011,61.7073,,,,,-1.31,-10.41,-9.09,1513188558,0.1171033572,3972.715974,
+prismchain,PrismChain,PRM,1259,0.00180611,0.00000011,61.2721,,,,,-1.86,-10.71,-9.73,1513188857,0.1162773618,3944.697798,
+prismchain,PrismChain,PRM,1260,0.00180611,0.00000011,61.2721,,,,,-1.86,-10.71,-9.73,1513188857,0.1162773618,3944.697798,

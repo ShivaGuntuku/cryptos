@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+quotient,Quotient,XQN,1286,0.00651684,0.00000039,14.7653,,,,,-1.14,188.09,19.18,1513187650,0.419971237,951.5349932,
+quotient,Quotient,XQN,1286,0.00652884,0.00000039,14.7925,,,,,-0.79,188.46,19.21,1513187949,0.4203267192,952.34115,
+quotient,Quotient,XQN,1287,0.00644896,0.00000039,14.6115,,,,,-1.31,184.62,17.31,1513188549,0.4151840448,940.68837,
+quotient,Quotient,XQN,1287,0.00640348,0.00000039,14.5085,,,,,-1.86,182.56,16.42,1513188849,0.4122560424,934.05723,
+quotient,Quotient,XQN,1288,0.00640348,0.00000039,14.5085,,,,,-1.86,182.56,16.42,1513188849,0.4122560424,934.05723,

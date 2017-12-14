@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+happy-creator-coin,Happy Creator Coin,HCC,1305,0.000501295,0.00000003,4.38734,,,,,-1.14,-27.98,-28.87,1513187659,0.032305455,282.73773896,
+happy-creator-coin,Happy Creator Coin,HCC,1305,0.000502218,0.00000003,4.39541,,,,,-0.79,-27.89,-28.71,1513187959,0.0323327948,282.9764958,
+happy-creator-coin,Happy Creator Coin,HCC,1305,0.000496074,0.00000003,4.34164,,,,,-1.31,-28.84,-29.44,1513188559,0.0319372441,279.5147832,
+happy-creator-coin,Happy Creator Coin,HCC,1305,0.000492575,0.00000003,4.31102,,,,,-1.78,-29.36,-29.93,1513188860,0.0317119785,277.5434676,
+happy-creator-coin,Happy Creator Coin,HCC,1306,0.000492575,0.00000003,4.31102,,,,,-1.78,-29.36,-29.93,1513188860,0.0317119785,277.5434676,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+hodl-bucks,HODL Bucks,HDLB,1345,0.0700338,0.00000400,,,,,2000000.0,,0.61,24.23,1513106083,4.5132582072,,
+hodl-bucks,HODL Bucks,HDLB,1345,0.0700338,0.00000400,,,,,2000000.0,,0.59,24.24,1513106083,4.508776044,,
+hodl-bucks,HODL Bucks,HDLB,1345,0.0700338,0.00000400,,,,,2000000.0,,0.53,24.35,1513106083,4.508776044,,
+hodl-bucks,HODL Bucks,HDLB,1345,0.0700338,0.00000400,,,,,2000000.0,,0.53,24.26,1513106083,4.508776044,,
+hodl-bucks,HODL Bucks,HDLB,1346,0.0700338,0.00000400,,,,,2000000.0,,0.53,24.26,1513106083,4.508776044,,

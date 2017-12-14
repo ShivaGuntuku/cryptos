@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+stakecoin-stcn,Stakecoin,STCN,803,2.19993,0.00018963,,13199580.0,6000000.0,61498772.0,,,,,1512301771,141.77228892,,850633734.0
+stakecoin-stcn,Stakecoin,STCN,803,2.19993,0.00018963,,13199580.0,6000000.0,61499118.0,,,,,1512301771,141.6314934,,849788960.0
+stakecoin-stcn,Stakecoin,STCN,801,2.19993,0.00018963,,13199580.0,6000000.0,61499118.0,,,,,1512301771,141.6314934,,849788960.0
+stakecoin-stcn,Stakecoin,STCN,800,2.19993,0.00018963,,13199580.0,6000000.0,61499118.0,,,,,1512301771,141.6314934,,849788960.0
+stakecoin-stcn,Stakecoin,STCN,801,2.19993,0.00018963,,13199580.0,6000000.0,61499118.0,,,,,1512301771,141.6314934,,849788960.0

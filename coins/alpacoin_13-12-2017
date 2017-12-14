@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+alpacoin,AlpaCoin,APC,1170,0.0304476,0.00000182,1100.36,,,,,-1.12,-3.9,27.08,1513187656,1.9621651344,70911.59984,
+alpacoin,AlpaCoin,APC,1170,0.0305027,0.00000182,1102.36,,,,,-0.57,-3.78,27.09,1513187956,1.963763826,70969.9368,
+alpacoin,AlpaCoin,APC,1171,0.0301363,0.00000182,1089.08,,,,,-1.28,-5.04,25.32,1513188555,1.940174994,70114.9704,
+alpacoin,AlpaCoin,APC,1171,0.0299278,0.00000182,1081.53,,,,,-1.75,-5.71,24.3,1513188856,1.926751764,69628.9014,
+alpacoin,AlpaCoin,APC,1172,0.0299278,0.00000182,1081.53,,,,,-1.75,-5.71,24.3,1513188856,1.926751764,69628.9014,

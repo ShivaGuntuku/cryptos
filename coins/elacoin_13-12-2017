@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+elacoin,Elacoin,ELC,1275,0.0961286,0.00000575,29.7493,,,,,-1.9,-12.13,-0.98,1513187641,6.1949114984,1917.1638892,
+elacoin,Elacoin,ELC,1276,0.0962127,0.00000575,29.7602,,,,,-1.27,-12.1,-0.94,1513187941,6.194173626,1915.961676,
+elacoin,Elacoin,ELC,1275,0.0955028,0.00000578,29.6149,,,,,-1.51,-12.82,-1.79,1513188541,6.148470264,1906.607262,
+elacoin,Elacoin,ELC,1276,0.0945173,0.00000576,29.2605,,,,,-2.24,-13.75,-2.87,1513188841,6.085023774,1883.79099,
+elacoin,Elacoin,ELC,1277,0.0945173,0.00000576,29.2605,,,,,-2.24,-13.75,-2.87,1513188841,6.085023774,1883.79099,

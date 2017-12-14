@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+eggcoin,EggCoin,EGG,1291,0.0634974,0.00000380,12.5468,,,,,-8.49,45.96,29.63,1513187651,4.0920264456,808.5659792,
+eggcoin,EggCoin,EGG,1291,0.0636143,0.00000380,12.5699,,,,,-6.95,46.15,29.81,1513187952,4.095488634,809.250162,
+eggcoin,EggCoin,EGG,1291,0.062836,0.00000380,12.4161,,,,,-5.58,44.21,28.11,1513188552,4.04538168,799.348518,
+eggcoin,EggCoin,EGG,1291,0.0623929,0.00000380,12.3285,,,,,-5.6,43.16,27.14,1513188851,4.016854902,793.70883,
+eggcoin,EggCoin,EGG,1292,0.0623929,0.00000380,12.3285,,,,,-5.6,43.16,27.14,1513188851,4.016854902,793.70883,

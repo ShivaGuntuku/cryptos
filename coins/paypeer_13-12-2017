@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+paypeer,PayPeer,PAYP,1322,0.000172891,0.00000001,,,,,,,-0.64,33.56,1513172956,0.0111417876,,
+paypeer,PayPeer,PAYP,1322,0.000172891,0.00000001,,,,,,,-0.7,33.48,1513172956,0.0111307226,,
+paypeer,PayPeer,PAYP,1322,0.000172891,0.00000001,,,,,,,-0.8,33.34,1513172956,0.0111307226,,
+paypeer,PayPeer,PAYP,1322,0.000172891,0.00000001,,,,,,,-0.84,33.23,1513172956,0.0111307226,,
+paypeer,PayPeer,PAYP,1323,0.000172891,0.00000001,,,,,,,-0.84,33.23,1513172956,0.0111307226,,

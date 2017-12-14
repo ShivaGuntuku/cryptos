@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+zengold,ZenGold,ZENGOLD,1089,0.0695965,0.00000416,85250.4,,,,,-4.3,-9.22,-12.0,1513187673,4.485076846,5493876.7776,
+zengold,ZenGold,ZENGOLD,1089,0.0728923,0.00000435,89295.1,,,,,0.66,-4.86,-7.86,1513187972,4.692806274,5748818.538,
+zengold,ZenGold,ZENGOLD,1089,0.0723335,0.00000437,87088.0,,,,,-1.08,-5.67,-8.68,1513188572,4.65683073,5606725.44,
+zengold,ZenGold,ZENGOLD,1089,0.0714966,0.00000435,86079.5,,,,,-3.38,-6.98,-9.73,1513188870,4.602951108,5541798.21,
+zengold,ZenGold,ZENGOLD,1090,0.0714966,0.00000435,86079.5,,,,,-3.38,-6.98,-9.73,1513188870,4.602951108,5541798.21,

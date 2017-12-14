@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+glasscoin,GlassCoin,GLS,1142,0.668394,0.00004000,4246.69,,,5323524.0,,-1.14,-4.03,-46.89,1513187691,43.073982936,273673.69036,
+glasscoin,GlassCoin,GLS,1142,0.669624,0.00004000,4254.5,,,5323524.0,,-0.79,-3.45,-46.77,1513187991,43.11039312,273904.71,
+glasscoin,GlassCoin,GLS,1142,0.661432,0.00004000,4202.45,,,5323524.0,,-1.43,-3.83,-47.34,1513188592,42.58299216,270553.731,
+glasscoin,GlassCoin,GLS,1142,0.661432,0.00004000,4202.45,,,5323524.0,,-1.43,-3.83,-47.34,1513188592,42.58299216,270553.731,
+glasscoin,GlassCoin,GLS,1143,0.656767,0.00004000,4189.89,,,5323524.0,,-1.86,-4.42,-47.67,1513188891,42.28265946,269745.1182,

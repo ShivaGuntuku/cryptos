@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+deuscoin,DeusCoin,DEUS,1129,0.297769,0.00001782,6992.16,,,25251211.0,,-1.14,-3.97,5.67,1513187670,19.189425436,450602.75904,
+deuscoin,DeusCoin,DEUS,1129,0.298318,0.00001782,7005.03,,,25251211.0,,-0.65,-3.85,6.06,1513187970,19.20571284,450983.8314,
+deuscoin,DeusCoin,DEUS,1128,0.294668,0.00001782,6919.33,,,25251211.0,,-1.31,-5.13,4.98,1513188571,18.97072584,445466.4654,
+deuscoin,DeusCoin,DEUS,1128,0.29259,0.00001782,6870.53,,,25251211.0,,-1.78,-5.81,4.34,1513188872,18.8369442,442324.7214,
+deuscoin,DeusCoin,DEUS,1129,0.29259,0.00001782,6870.53,,,25251211.0,,-1.78,-5.81,4.34,1513188872,18.8369442,442324.7214,

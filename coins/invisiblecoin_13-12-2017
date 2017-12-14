@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+invisiblecoin,InvisibleCoin,IVZ,1298,0.373799,0.00002237,8.00686,,,,,-1.27,-30.44,20.15,1513187654,24.089102756,515.99408584,
+invisiblecoin,InvisibleCoin,IVZ,1298,0.374487,0.00002237,8.0216,,,,,-0.58,-30.35,19.93,1513187955,24.10947306,516.430608,
+invisiblecoin,InvisibleCoin,IVZ,1298,0.369906,0.00002237,7.92346,,,,,-1.31,-31.27,17.72,1513188554,23.81454828,510.1123548,
+invisiblecoin,InvisibleCoin,IVZ,1298,0.367297,0.00002237,7.86758,,,,,-1.86,-31.77,16.82,1513188855,23.64658086,506.5148004,
+invisiblecoin,InvisibleCoin,IVZ,1299,0.367297,0.00002237,7.86758,,,,,-1.86,-31.77,16.82,1513188855,23.64658086,506.5148004,

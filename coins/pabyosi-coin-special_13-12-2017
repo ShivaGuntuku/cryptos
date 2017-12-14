@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+pabyosi-coin-special,Pabyosi Coin (Special),PCS,1212,0.0897319,0.00000537,278.844,,,30993751760.0,,-0.97,-3.97,3.92,1513187666,5.7826825636,17969.822736,
+pabyosi-coin-special,Pabyosi Coin (Special),PCS,1212,0.0898971,0.00000537,279.357,,,30993751760.0,,-0.65,-3.85,4.06,1513187965,5.787575298,17985.00366,
+pabyosi-coin-special,Pabyosi Coin (Special),PCS,1211,0.0887972,0.00000537,275.939,,,30993751760.0,,-1.43,-5.13,2.66,1513188565,5.716763736,17764.95282,
+pabyosi-coin-special,Pabyosi Coin (Special),PCS,1211,0.088171,0.00000537,273.993,,,30993751760.0,,-1.86,-5.81,1.94,1513188863,5.67644898,17639.66934,
+pabyosi-coin-special,Pabyosi Coin (Special),PCS,1212,0.088171,0.00000537,273.993,,,30993751760.0,,-1.86,-5.81,1.94,1513188863,5.67644898,17639.66934,

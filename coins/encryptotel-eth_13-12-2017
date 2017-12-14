@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+encryptotel-eth,EncryptoTel [ETH],ETT,1147,0.0811397,0.00000486,3448.92,,,,,-2.14,-32.88,-25.66,1513187681,5.2289668268,222262.20048,
+encryptotel-eth,EncryptoTel [ETH],ETT,1147,0.081284,0.00000486,3455.14,,,,,-1.58,-32.14,-25.63,1513187984,5.23306392,222441.9132,
+encryptotel-eth,EncryptoTel [ETH],ETT,1147,0.0803153,0.00000486,3413.5,,,,,-2.02,-31.97,-26.63,1513188584,5.170699014,219761.13,
+encryptotel-eth,EncryptoTel [ETH],ETT,1147,0.0794228,0.00000484,3364.32,,,,,-2.8,-32.33,-27.44,1513188881,5.113239864,216594.9216,
+encryptotel-eth,EncryptoTel [ETH],ETT,1148,0.0794228,0.00000484,3364.32,,,,,-2.8,-32.33,-27.44,1513188881,5.113239864,216594.9216,

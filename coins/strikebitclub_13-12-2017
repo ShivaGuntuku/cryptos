@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+strikebitclub,StrikeBitClub,SBC,1084,1.05239,0.00006298,166898.0,,,195247235.0,,-1.27,-3.54,,1513187691,67.82022116,10755574.712,
+strikebitclub,StrikeBitClub,SBC,1084,1.05432,0.00006298,167205.0,,,195247235.0,,-0.79,-3.14,,1513187992,67.8771216,10764657.9,
+strikebitclub,StrikeBitClub,SBC,1084,1.04142,0.00006298,165160.0,,,195247235.0,,-1.43,-4.31,,1513188593,67.0466196,10633000.8,
+strikebitclub,StrikeBitClub,SBC,1084,1.04142,0.00006298,165160.0,,,195247235.0,,-1.43,-4.31,,1513188593,67.0466196,10633000.8,
+strikebitclub,StrikeBitClub,SBC,1085,1.03408,0.00006298,163995.0,,,195247235.0,,-1.86,-4.96,,1513188891,66.5740704,10557998.1,

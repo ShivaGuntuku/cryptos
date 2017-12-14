@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+teracoin,TeraCoin,TERA,1334,0.000140597,0.00000001,,,,92233720369.0,,,,,1512903561,0.0090606331,,
+teracoin,TeraCoin,TERA,1334,0.000140597,0.00000001,,,,92233720369.0,,,,,1512903561,0.0090516349,,
+teracoin,TeraCoin,TERA,1334,0.000140597,0.00000001,,,,92233720369.0,,,,,1512903561,0.0090516349,,
+teracoin,TeraCoin,TERA,1334,0.000140597,0.00000001,,,,92233720369.0,,,,,1512903561,0.0090516349,,
+teracoin,TeraCoin,TERA,1335,0.000140597,0.00000001,,,,92233720369.0,,,,,1512903561,0.0090516349,,

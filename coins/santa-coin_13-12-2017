@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+santa-coin,Santa Coin,STC,1071,0.618448,0.00003701,631259.0,,,,28000000.0,-5.28,-13.06,-10.68,1513187691,39.855262912,40680854.996,
+santa-coin,Santa Coin,STC,1071,0.619587,0.00003701,632421.0,,,,28000000.0,-4.84,-12.9,-11.13,1513187992,39.88901106,40715263.98,
+santa-coin,Santa Coin,STC,1071,0.612073,0.00003701,629897.0,,,,28000000.0,-5.87,-13.83,-12.4,1513188592,39.40525974,40552768.86,
+santa-coin,Santa Coin,STC,1071,0.612073,0.00003701,629897.0,,,,28000000.0,-5.87,-13.83,-12.4,1513188592,39.40525974,40552768.86,
+santa-coin,Santa Coin,STC,1072,0.607756,0.00003701,608213.0,,,,28000000.0,-6.25,-14.35,-13.02,1513188891,39.12733128,39156752.94,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+pioneer-coin,Pioneer Coin,PCOIN,1103,0.651851,0.00003901,30085.5,,,2019591.0,,-1.27,-25.27,,1513187691,42.007885844,1938829.962,
+pioneer-coin,Pioneer Coin,PCOIN,1103,0.653051,0.00003901,30140.9,,,2019591.0,,-0.79,-25.07,,1513187993,42.04342338,1940471.142,
+pioneer-coin,Pioneer Coin,PCOIN,1103,0.645062,0.00003901,29772.2,,,2019591.0,,-1.43,-26.53,,1513188593,41.52909156,1916734.236,
+pioneer-coin,Pioneer Coin,PCOIN,1103,0.645062,0.00003901,29772.2,,,2019591.0,,-1.43,-26.53,,1513188593,41.52909156,1916734.236,
+pioneer-coin,Pioneer Coin,PCOIN,1104,0.640512,0.00003901,29562.2,,,2019591.0,,-1.86,-27.31,,1513188891,41.23616256,1903214.436,

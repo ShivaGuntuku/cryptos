@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+axiom,Axiom,AXIOM,1276,0.0245635,0.00000147,29.0832,,,,,-0.97,-4.02,24.02,1513187661,1.582970194,1874.2377408,
+axiom,Axiom,AXIOM,1271,0.0246087,0.00000147,34.9443,,,,,-0.79,-3.85,24.2,1513187953,1.584308106,2249.714034,
+axiom,Axiom,AXIOM,1271,0.0243076,0.00000147,34.5168,,,,,-1.31,-5.13,22.53,1513188552,1.564923288,2222.191584,
+axiom,Axiom,AXIOM,1271,0.0241362,0.00000147,34.2734,,,,,-1.86,-5.81,21.65,1513188852,1.553888556,2206.521492,
+axiom,Axiom,AXIOM,1272,0.0241362,0.00000147,34.2734,,,,,-1.86,-5.81,21.65,1513188852,1.553888556,2206.521492,

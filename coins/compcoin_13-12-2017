@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+compcoin,Compcoin,CMP,1128,10.0259,0.0006,7435.64,,,6333626.0,,-1.27,-6.06,,1513187678,646.1090996,479182.38416,
+compcoin,Compcoin,CMP,1128,10.0444,0.0006,7449.33,,,6333626.0,,-0.79,-5.89,,1513187978,646.658472,479587.8654,
+compcoin,Compcoin,CMP,1127,9.92148,0.0006,7358.19,,,6333626.0,,-1.43,-7.06,,1513188578,638.7448824,473720.2722,
+compcoin,Compcoin,CMP,1127,9.85151,0.0006,7306.3,,,6333626.0,,-1.86,-7.69,,1513188876,634.2402138,470379.594,
+compcoin,Compcoin,CMP,1128,9.85151,0.0006,7306.3,,,6333626.0,,-1.86,-7.69,,1513188876,634.2402138,470379.594,

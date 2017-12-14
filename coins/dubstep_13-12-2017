@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+dubstep,Dubstep,DUB,1284,0.00267358,0.00000016,18.715,,,,,-1.14,,8.7,1513187653,0.1722961895,1206.06946,
+dubstep,Dubstep,DUB,1284,0.0026785,0.00000016,18.7495,,,,,-0.79,,8.85,1513187952,0.17244183,1207.09281,
+dubstep,Dubstep,DUB,1284,0.00264573,0.00000016,18.5201,,,,,-1.31,,7.38,1513188552,0.1703320974,1192.324038,
+dubstep,Dubstep,DUB,1284,0.00262707,0.00000016,18.3895,,,,,-1.86,,6.57,1513188852,0.1691307666,1183.91601,
+dubstep,Dubstep,DUB,1285,0.00262707,0.00000016,18.3895,,,,,-1.86,,6.57,1513188852,0.1691307666,1183.91601,

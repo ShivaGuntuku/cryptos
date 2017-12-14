@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+ethereum-movie-venture,Ethereum Movie Venture,EMV,312,1.82899,0.00010946,4864.01,12010366.0,6566666.0,6666666.0,,-3.1,-0.74,69.1,1513187670,117.86743156,313456.26044,773996055.0
+ethereum-movie-venture,Ethereum Movie Venture,EMV,312,1.83938,0.00010988,4891.64,12078594.0,6566666.0,6666666.0,,-2.11,-0.06,72.33,1513187971,118.4192844,314923.7832,777619889.0
+ethereum-movie-venture,Ethereum Movie Venture,EMV,312,1.82085,0.00011011,4842.34,11956914.0,6566666.0,6666666.0,,-2.0,-0.97,75.28,1513188570,117.226323,311749.8492,769786110.0
+ethereum-movie-venture,Ethereum Movie Venture,EMV,310,1.811,0.0001103,4816.15,11892232.0,6566666.0,6666666.0,,-2.33,-1.46,74.33,1513188868,116.59218,310063.737,765621904.0
+ethereum-movie-venture,Ethereum Movie Venture,EMV,311,1.811,0.0001103,4816.15,11892232.0,6566666.0,6666666.0,,-2.33,-1.46,74.33,1513188868,116.59218,310063.737,765621904.0

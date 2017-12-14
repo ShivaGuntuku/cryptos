@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+futcoin,FutCoin,FUTC,1303,0.00334197,0.00000020,5.00293,,,,,-1.27,-3.97,0.18,1513187652,0.2153699147,322.40882092,
+futcoin,FutCoin,FUTC,1303,0.00334812,0.00000020,5.01214,,,,,-0.79,-3.85,0.41,1513187953,0.2155519656,322.6815732,
+futcoin,FutCoin,FUTC,1303,0.00330716,0.00000020,4.95082,,,,,-1.31,-5.13,-0.79,1513188552,0.2129149608,318.7337916,
+futcoin,FutCoin,FUTC,1303,0.00328384,0.00000020,4.9159,,,,,-1.71,-5.85,-1.45,1513188861,0.2114136192,316.485642,
+futcoin,FutCoin,FUTC,1304,0.00328384,0.00000020,4.9159,,,,,-1.71,-5.85,-1.45,1513188861,0.2114136192,316.485642,

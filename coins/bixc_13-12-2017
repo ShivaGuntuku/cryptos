@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+bixc,BIXC,BIXC,1337,6.68229,0.00040078,,,,210000001.0,,-1.36,-6.72,,1513185573,430.63349676,,
+bixc,BIXC,BIXC,1337,6.68229,0.00040078,,,,210000001.0,,-1.19,-6.58,,1513185573,430.2058302,,
+bixc,BIXC,BIXC,1337,6.68229,0.00040078,,,,210000001.0,,-0.61,-6.29,,1513185573,430.2058302,,
+bixc,BIXC,BIXC,1337,6.68229,0.00040078,,,,210000001.0,,-0.46,-6.12,,1513185573,430.2058302,,
+bixc,BIXC,BIXC,1338,6.68229,0.00040078,,,,210000001.0,,-0.46,-6.12,,1513185573,430.2058302,,

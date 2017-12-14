@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+bitcoin-unlimited,Bitcoin Unlimited (Futures),BTU,1132,82.6202,0.0049444,6517.34,,,,,4.23,12.34,-13.74,1513187667,5324.3761688,420003.45896,
+bitcoin-unlimited,Bitcoin Unlimited (Futures),BTU,1132,82.7345,0.00494215,6524.82,,,,,4.33,12.23,-13.66,1513187967,5326.44711,420067.9116,
+bitcoin-unlimited,Bitcoin Unlimited (Futures),BTU,1131,81.9756,0.00495746,6475.0,,,,,1.77,10.67,-14.63,1513188568,5277.589128,416860.5,
+bitcoin-unlimited,Bitcoin Unlimited (Futures),BTU,1131,81.5459,0.0049665,6446.62,,,,,0.46,9.83,-15.06,1513188866,5249.925042,415033.3956,
+bitcoin-unlimited,Bitcoin Unlimited (Futures),BTU,1132,81.5459,0.0049665,6446.62,,,,,0.46,9.83,-15.06,1513188866,5249.925042,415033.3956,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+cbd-crystals,CBD Crystals,CBD,1263,0.00284067,0.00000017,46.5386,,,,,-0.97,-3.25,46.35,1513187664,0.1830641375,2999.1335384,
+cbd-crystals,CBD Crystals,CBD,1263,0.0028459,0.00000017,46.6243,,,,,-0.79,-3.08,46.5,1513187963,0.183219042,3001.672434,
+cbd-crystals,CBD Crystals,CBD,1263,0.00281109,0.00000017,46.0539,,,,,-1.31,-4.28,44.52,1513188563,0.1809779742,2964.950082,
+cbd-crystals,CBD Crystals,CBD,1263,0.00279126,0.00000017,45.7291,,,,,-1.86,-4.95,43.4,1513188865,0.1797013188,2944.039458,
+cbd-crystals,CBD Crystals,CBD,1264,0.00279126,0.00000017,45.7291,,,,,-1.86,-4.95,43.4,1513188865,0.1797013188,2944.039458,

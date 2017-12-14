@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+snakeeyes,SnakeEyes,SNAKE,1304,0.0539386,0.00000323,4.63872,,,10000000.0,,-2.56,-14.55,3.44,1513187670,3.4760191384,298.93767168,
+snakeeyes,SnakeEyes,SNAKE,1304,0.0540252,0.00000323,4.64616,,,10000000.0,,-2.0,-14.41,3.77,1513187971,3.478142376,299.1197808,
+snakeeyes,SnakeEyes,SNAKE,1304,0.0543007,0.00000328,4.66986,,,10000000.0,,-1.16,-14.03,4.45,1513188570,3.495879066,300.6455868,
+snakeeyes,SnakeEyes,SNAKE,1304,0.0534624,0.00000326,4.59777,,,10000000.0,,-2.42,-15.4,2.91,1513188870,3.441909312,296.0044326,
+snakeeyes,SnakeEyes,SNAKE,1305,0.0534624,0.00000326,4.59777,,,10000000.0,,-2.42,-15.4,2.91,1513188870,3.441909312,296.0044326,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+peacecoin,Peacecoin,PEC,1143,0.0750272,0.00000449,3737.84,,,,,-0.97,-2.13,-20.75,1513187664,4.8350528768,240881.36096,
+peacecoin,Peacecoin,PEC,1143,0.0751653,0.00000449,3744.72,,,,,-0.79,-1.54,-20.25,1513187962,4.839142014,241085.0736,
+peacecoin,Peacecoin,PEC,1143,0.0742457,0.00000449,3698.91,,,,,-1.43,-1.92,-20.53,1513188561,4.779938166,238135.8258,
+peacecoin,Peacecoin,PEC,1143,0.0737221,0.00000449,3672.82,,,,,-1.86,-2.13,-21.09,1513188859,4.746228798,236456.1516,
+peacecoin,Peacecoin,PEC,1144,0.0737221,0.00000449,3672.82,,,,,-1.86,-2.13,-21.09,1513188859,4.746228798,236456.1516,

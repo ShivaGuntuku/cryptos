@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+ug-token,UG Token,UGT,1075,0.628577,0.00003762,473829.0,,,,,-3.52,9.58,52.49,1513187679,40.508016188,30535436.076,
+ug-token,UG Token,UGT,1075,0.632145,0.00003776,476516.0,,,,,-2.46,10.38,53.51,1513187982,40.6974951,30678100.08,
+ug-token,UG Token,UGT,1075,0.625723,0.00003784,468479.0,,,,,-2.37,9.49,52.12,1513188581,40.28404674,30160678.02,
+ug-token,UG Token,UGT,1075,0.62234,0.00003790,465948.0,,,,,-2.77,9.0,51.3,1513188878,40.0662492,29997732.24,
+ug-token,UG Token,UGT,1076,0.62234,0.00003790,465948.0,,,,,-2.77,9.0,51.3,1513188878,40.0662492,29997732.24,

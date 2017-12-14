@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+bitcoin-diamond,Bitcoin Diamond [Futures],BCD,1056,32.0803,0.00191984,7502770.0,,,,210000000.0,-1.57,-2.98,-15.9,1513187689,2067.3828532,483508509.88,
+bitcoin-diamond,Bitcoin Diamond [Futures],BCD,1056,32.1433,0.00192008,7515950.0,,,,210000000.0,-0.76,-2.83,-15.76,1513187992,2069.385654,483876861.0,
+bitcoin-diamond,Bitcoin Diamond [Futures],BCD,1056,31.9985,0.00193511,7522940.0,,,,210000000.0,-0.71,-3.39,-16.15,1513188592,2060.06343,484326877.2,
+bitcoin-diamond,Bitcoin Diamond [Futures],BCD,1056,31.9985,0.00193511,7522940.0,,,,210000000.0,-0.71,-3.39,-16.15,1513188592,2060.06343,484326877.2,
+bitcoin-diamond,Bitcoin Diamond [Futures],BCD,1057,31.7424,0.00193325,7470530.0,,,,210000000.0,-1.31,-4.14,-16.82,1513188890,2043.575712,480952721.4,

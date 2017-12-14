@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+xaucoin,Xaucoin,XAU,1283,0.0442811,0.00000265,20.3765,,,,,-0.97,-33.21,26.23,1513187652,2.8536512084,1313.143166,
+xaucoin,Xaucoin,XAU,1283,0.0443626,0.00000265,20.414,,,,,-0.79,-33.12,26.46,1513187950,2.856064188,1314.25332,
+xaucoin,Xaucoin,XAU,1283,0.0438199,0.00000265,20.1643,,,,,-1.31,-34.01,24.69,1513188551,2.821125162,1298.177634,
+xaucoin,Xaucoin,XAU,1283,0.0435108,0.00000265,20.022,,,,,-1.86,-34.49,23.73,1513188851,2.801225304,1289.01636,
+xaucoin,Xaucoin,XAU,1284,0.0435108,0.00000265,20.022,,,,,-1.86,-34.49,23.73,1513188851,2.801225304,1289.01636,

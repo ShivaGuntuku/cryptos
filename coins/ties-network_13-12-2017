@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+ties-network,TIES Network,TIE,1300,0.132896,0.00000795,6.99455,,,59251278.0,,-3.26,14.52,116.65,1513187687,8.564349824,450.7567802,
+ties-network,TIES Network,TIE,1300,0.133651,0.00000798,7.03428,,,59251278.0,,-1.82,15.41,118.02,1513187992,8.60445138,452.8669464,
+ties-network,TIES Network,TIE,1300,0.132304,0.00000800,6.96339,,,59251278.0,,-2.08,14.58,115.97,1513188588,8.51773152,448.3030482,
+ties-network,TIES Network,TIE,1300,0.131589,0.00000801,6.92573,,,59251278.0,,-2.33,13.91,114.8,1513188887,8.47169982,445.8784974,
+ties-network,TIES Network,TIE,1301,0.131589,0.00000801,6.92573,,,59251278.0,,-2.33,13.91,114.8,1513188887,8.47169982,445.8784974,

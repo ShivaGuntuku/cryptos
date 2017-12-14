@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+wild-crypto,Wild Crypto,WILD,1101,0.28296,0.00001693,31168.9,,,100000000.0,,-2.98,24.35,137.68,1513187683,18.23507424,2008648.5916,
+wild-crypto,Wild Crypto,WILD,1101,0.284409,0.00001699,31313.2,,,100000000.0,,-2.19,24.48,138.9,1513187984,18.31025142,2015943.816,
+wild-crypto,Wild Crypto,WILD,1101,0.281452,0.00001702,30979.1,,,100000000.0,,-1.99,22.04,136.73,1513188583,18.11987976,1994434.458,
+wild-crypto,Wild Crypto,WILD,1101,0.279864,0.00001704,30797.6,,,100000000.0,,-2.27,21.4,135.56,1513188883,18.01764432,1982749.488,
+wild-crypto,Wild Crypto,WILD,1102,0.279864,0.00001704,30797.6,,,100000000.0,,-2.27,21.4,135.56,1513188883,18.01764432,1982749.488,

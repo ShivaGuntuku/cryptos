@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+sigmacoin,SIGMAcoin,SIGMA,1112,0.0489619,0.00000293,15779.5,,,,,-3.26,1.31,9.58,1513187679,3.1553006836,1016894.098,
+sigmacoin,SIGMAcoin,SIGMA,1112,0.04924,0.00000294,15869.1,,,,,-2.41,2.0,10.39,1513187980,3.1700712,1021652.658,
+sigmacoin,SIGMAcoin,SIGMA,1112,0.0487437,0.00000295,15709.2,,,,,-2.08,1.08,9.69,1513188580,3.138119406,1011358.296,
+sigmacoin,SIGMAcoin,SIGMA,1112,0.0484801,0.00000295,15624.2,,,,,-2.33,0.58,9.1,1513188878,3.121148838,1005885.996,
+sigmacoin,SIGMAcoin,SIGMA,1113,0.0484801,0.00000295,15624.2,,,,,-2.33,0.58,9.1,1513188878,3.121148838,1005885.996,

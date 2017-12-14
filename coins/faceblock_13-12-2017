@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+faceblock,Faceblock,FBL,1288,0.00390296,0.00000023,13.9891,,,10000000.0,,-3.1,74.4,,1513187689,0.2515223542,901.5135604,
+faceblock,Faceblock,FBL,1288,0.00392513,0.00000023,14.0686,,,10000000.0,,-2.41,76.22,,1513187990,0.2526998694,905.736468,
+faceblock,Faceblock,FBL,1288,0.00388557,0.00000023,13.9268,,,10000000.0,,-2.08,75.89,,1513188590,0.2501529966,896.607384,
+faceblock,Faceblock,FBL,1288,0.00386456,0.00000024,13.8515,,,10000000.0,,-2.33,74.98,,1513188888,0.2488003728,891.75957,
+faceblock,Faceblock,FBL,1289,0.00386456,0.00000024,13.8515,,,10000000.0,,-2.33,74.98,,1513188888,0.2488003728,891.75957,

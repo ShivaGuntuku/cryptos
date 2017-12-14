@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+skeincoin,Skeincoin,SKC,1198,0.0247306,0.00000148,500.595,,,,,-1.14,-4.56,30.25,1513187644,1.5937387864,32260.34418,
+skeincoin,Skeincoin,SKC,1197,0.0247761,0.00000148,501.517,,,,,-0.65,-4.47,30.41,1513187944,1.595085318,32287.66446,
+skeincoin,Skeincoin,SKC,1197,0.024473,0.00000148,495.381,,,,,-1.43,-5.81,28.77,1513188543,1.57557174,31892.62878,
+skeincoin,Skeincoin,SKC,1197,0.0243004,0.00000148,491.887,,,,,-1.78,-6.5,27.76,1513188844,1.564459752,31667.68506,
+skeincoin,Skeincoin,SKC,1198,0.0243004,0.00000148,491.887,,,,,-1.78,-6.5,27.76,1513188844,1.564459752,31667.68506,

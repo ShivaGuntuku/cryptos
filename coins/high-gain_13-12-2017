@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+high-gain,High Gain,HIGH,1189,0.000334197,0.00000002,626.585,,,,,-1.14,-3.99,-51.49,1513187687,0.0215369915,40379.64374,
+high-gain,High Gain,HIGH,1189,0.000334812,0.00000002,627.738,,,,,-0.45,-3.87,-51.32,1513187990,0.0215551966,40413.77244,
+high-gain,High Gain,HIGH,1189,0.000330716,0.00000002,620.058,,,,,-1.43,-5.15,-51.9,1513188588,0.0212914961,39919.33404,
+high-gain,High Gain,HIGH,1189,0.000328384,0.00000002,615.685,,,,,-1.86,-5.81,-52.18,1513188885,0.0211413619,39637.8003,
+high-gain,High Gain,HIGH,1190,0.000328384,0.00000002,615.685,,,,,-1.86,-5.81,-52.18,1513188885,0.0211413619,39637.8003,

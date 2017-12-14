@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+tellurion,Tellurion,TELL,1187,0.000350222,0.00000002,631.1,,,,,-1.03,13.03,151.27,1513187661,0.0225697066,40670.6084,
+tellurion,Tellurion,TELL,1187,0.000350184,0.00000002,631.706,,,,,-0.83,12.9,150.65,1513187964,0.0225448459,40669.23228,
+tellurion,Tellurion,TELL,1187,0.000349318,0.00000002,626.743,,,,,-1.06,12.57,149.41,1513188561,0.0224890928,40349.71434,
+tellurion,Tellurion,TELL,1187,0.000344577,0.00000002,620.484,,,,,-2.39,11.11,145.98,1513188859,0.0221838673,39946.75992,
+tellurion,Tellurion,TELL,1188,0.000344577,0.00000002,620.484,,,,,-2.39,11.11,145.98,1513188859,0.0221838673,39946.75992,

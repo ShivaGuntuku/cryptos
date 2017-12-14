@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+terranova,TerraNova,TER,1122,14.796,0.00088546,9922.25,,,958555.0,,1.93,-11.54,374.64,1513187676,953.513424,639429.479,
+terranova,TerraNova,TER,1122,14.8247,0.00088555,9941.41,,,958561.0,,0.86,-11.13,374.4,1513187977,954.414186,640027.9758,
+terranova,TerraNova,TER,1122,14.6408,0.0008854,9818.21,,,958561.0,,-1.48,-11.8,365.01,1513188577,942.574704,632096.3598,
+terranova,TerraNova,TER,1122,14.538,0.00088543,9761.53,,,958561.0,,-1.91,-12.44,361.75,1513188873,935.95644,628447.3014,
+terranova,TerraNova,TER,1123,14.538,0.00088543,9761.53,,,958561.0,,-1.91,-12.44,361.75,1513188873,935.95644,628447.3014,

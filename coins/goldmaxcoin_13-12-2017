@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+goldmaxcoin,GoldMaxCoin,GMX,1241,0.0025899,0.00000015,96.2967,,,84078950.0,,3.16,-61.56,-74.45,1513187658,0.1669035156,6205.7445348,
+goldmaxcoin,GoldMaxCoin,GMX,1241,0.00259467,0.00000015,96.474,,,84078950.0,,2.2,-61.51,-74.4,1513187957,0.1670448546,6210.99612,
+goldmaxcoin,GoldMaxCoin,GMX,1241,0.00256293,0.00000015,95.2937,,,84078950.0,,-1.31,-62.03,-74.74,1513188557,0.1650014334,6135.008406,
+goldmaxcoin,GoldMaxCoin,GMX,1241,0.00254485,0.00000015,94.6216,,,84078950.0,,-1.78,-62.3,-74.94,1513188857,0.163837443,6091.738608,
+goldmaxcoin,GoldMaxCoin,GMX,1242,0.00254485,0.00000015,94.6216,,,84078950.0,,-1.78,-62.3,-74.94,1513188857,0.163837443,6091.738608,

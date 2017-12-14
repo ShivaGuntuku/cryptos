@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+dashs,Dashs,DASHS,1225,0.0396023,0.00000237,165.932,,,,,-1.14,-29.76,-38.36,1513187670,2.5521306212,10693.321808,
+dashs,Dashs,DASHS,1224,0.0396752,0.00000237,172.188,,,,,-0.65,-29.67,-38.2,1513187971,2.554289376,11085.46344,
+dashs,Dashs,DASHS,1224,0.0391898,0.00000237,170.082,,,,,-1.43,-30.6,-38.85,1513188569,2.523039324,10949.87916,
+dashs,Dashs,DASHS,1224,0.0389135,0.00000237,168.882,,,,,-1.78,-31.1,-39.26,1513188869,2.50525113,10872.62316,
+dashs,Dashs,DASHS,1225,0.0389135,0.00000237,168.882,,,,,-1.78,-31.1,-39.26,1513188869,2.50525113,10872.62316,

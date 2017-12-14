@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+social-send,Social Send,SEND,1105,0.079706,0.00000477,24099.6,,,30253320.0,,-1.14,10.33,2.15,1513187691,5.136573464,1553074.6224,
+social-send,Social Send,SEND,1105,0.0798527,0.00000477,24144.0,,,30253573.0,,-0.79,10.7,1.79,1513187993,5.140916826,1554390.72,
+social-send,Social Send,SEND,1105,0.0788758,0.00000477,23848.6,,,30253573.0,,-1.43,8.92,0.07,1513188592,5.078024004,1535372.868,
+social-send,Social Send,SEND,1105,0.0788758,0.00000477,23848.6,,,30253573.0,,-1.43,8.92,0.07,1513188592,5.078024004,1535372.868,
+social-send,Social Send,SEND,1106,0.0783195,0.00000477,23680.4,,,30253573.0,,-1.86,8.37,-0.88,1513188892,5.04220941,1524544.152,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+cashme,Cashme,CME,1236,0.000167098,0.00000001,110.366,,,,,-1.14,-3.97,27.91,1513187655,0.0107684635,7112.426504,
+cashme,Cashme,CME,1236,0.000167406,0.00000001,110.569,,,,,-0.58,-3.85,28.08,1513187956,0.0107775983,7118.43222,
+cashme,Cashme,CME,1236,0.000165358,0.00000001,109.216,,,,,-1.31,-5.13,26.37,1513188555,0.010645748,7031.32608,
+cashme,Cashme,CME,1236,0.000164192,0.00000001,108.446,,,,,-1.86,-5.81,25.48,1513188855,0.010570681,6981.75348,
+cashme,Cashme,CME,1237,0.000164192,0.00000001,108.446,,,,,-1.86,-5.81,25.48,1513188855,0.010570681,6981.75348,

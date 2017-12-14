@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+tezos,Tezos (Pre-Launch),XTZ,1070,4.25225,0.00025448,701963.0,,,,,3.8,4.1,31.29,1513187683,274.031999,45237303.572,
+tezos,Tezos (Pre-Launch),XTZ,1070,4.31421,0.00025771,701217.0,,,,,5.58,5.44,33.02,1513187983,277.7488398,45144350.46,
+tezos,Tezos (Pre-Launch),XTZ,1070,4.37251,0.00026443,700110.0,,,,,8.2,6.64,34.65,1513188585,281.5021938,45073081.8,
+tezos,Tezos (Pre-Launch),XTZ,1070,4.13104,0.0002516,696472.0,,,,,2.23,0.75,27.21,1513188881,265.9563552,44838867.36,
+tezos,Tezos (Pre-Launch),XTZ,1071,4.13104,0.0002516,696472.0,,,,,2.23,0.75,27.21,1513188881,265.9563552,44838867.36,

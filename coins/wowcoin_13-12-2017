@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+wowcoin,Wowcoin,WOW,1196,0.000167966,0.00000001,527.364,,,,,-1.44,-7.53,-14.27,1513187664,0.0108244009,33985.445616,
+wowcoin,Wowcoin,WOW,1195,0.000168192,0.00000001,528.089,,,,,-1.12,-7.58,-14.39,1513187963,0.010828201,33998.36982,
+wowcoin,Wowcoin,WOW,1195,0.000166552,0.00000001,522.855,,,,,-1.53,-8.8,-16.09,1513188564,0.0107226178,33661.4049,
+wowcoin,Wowcoin,WOW,1195,0.000165099,0.00000001,518.352,,,,,-2.12,-9.75,-17.04,1513188861,0.0106290736,33371.50176,
+wowcoin,Wowcoin,WOW,1196,0.000165099,0.00000001,518.352,,,,,-2.12,-9.75,-17.04,1513188861,0.0106290736,33371.50176,

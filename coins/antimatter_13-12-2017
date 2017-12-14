@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+antimatter,Antimatter,ANTX,1227,0.000167098,0.00000001,150.712,,,,,-1.14,2.26,,1513187674,0.0107684635,9712.484128,
+antimatter,Antimatter,ANTX,1227,0.000167406,0.00000001,150.989,,,,,-0.45,2.2,,1513187976,0.0107775983,9720.67182,
+antimatter,Antimatter,ANTX,1227,0.000165358,0.00000001,149.142,,,,,-1.16,0.47,,1513188577,0.010645748,9601.76196,
+antimatter,Antimatter,ANTX,1227,0.000164192,0.00000001,148.09,,,,,-1.86,-0.45,,1513188872,0.010570681,9534.0342,
+antimatter,Antimatter,ANTX,1228,0.000164192,0.00000001,148.09,,,,,-1.86,-0.45,,1513188872,0.010570681,9534.0342,

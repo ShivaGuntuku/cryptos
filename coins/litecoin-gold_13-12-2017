@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+litecoin-gold,LiteCoin Gold,LTG,1134,0.00377439,0.00000023,5608.88,,,84000000.0,,-3.01,5.81,29.42,1513187685,0.2432367892,361458.66272,
+litecoin-gold,LiteCoin Gold,LTG,1134,0.00378527,0.00000023,5625.59,,,84000000.0,,-1.29,6.22,29.52,1513187986,0.2436956826,362175.4842,
+litecoin-gold,LiteCoin Gold,LTG,1138,0.00374696,0.00000023,4737.99,,,84000000.0,,-1.51,5.36,27.96,1513188587,0.2412292848,305031.7962,
+litecoin-gold,LiteCoin Gold,LTG,1138,0.00372196,0.00000023,4706.56,,,84000000.0,,-1.88,4.43,27.11,1513188884,0.2396197848,303008.3328,
+litecoin-gold,LiteCoin Gold,LTG,1139,0.00372196,0.00000023,4706.56,,,84000000.0,,-1.88,4.43,27.11,1513188884,0.2396197848,303008.3328,

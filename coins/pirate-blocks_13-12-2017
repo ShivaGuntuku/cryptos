@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+pirate-blocks,Pirate Blocks,SKULL,1192,0.00293535,0.00000018,607.855,,,,240000000.0,-0.14,-7.76,25.81,1513187676,0.1891656954,39172.60762,
+pirate-blocks,Pirate Blocks,SKULL,1193,0.00294997,0.00000018,555.034,,,,240000000.0,0.36,-7.8,26.31,1513187973,0.1899190686,35733.08892,
+pirate-blocks,Pirate Blocks,SKULL,1193,0.00291388,0.00000018,548.243,,,,240000000.0,-0.67,-10.06,24.47,1513188573,0.1875955944,35295.88434,
+pirate-blocks,Pirate Blocks,SKULL,1193,0.00289333,0.00000018,544.377,,,,240000000.0,-1.21,-10.14,23.59,1513188872,0.1862725854,35046.99126,
+pirate-blocks,Pirate Blocks,SKULL,1194,0.00289333,0.00000018,544.377,,,,240000000.0,-1.21,-10.14,23.59,1513188872,0.1862725854,35046.99126,

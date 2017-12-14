@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+bitcoin-silver,Bitcoin Silver,BTCS,1140,0.00699455,0.00000042,4701.04,,,50000000.0,,-3.1,-14.22,-24.29,1513187686,0.4507567802,302953.82176,
+bitcoin-silver,Bitcoin Silver,BTCS,1139,0.00703428,0.00000042,4727.74,,,50000000.0,,-2.41,-13.4,-22.96,1513187986,0.4528669464,304371.9012,
+bitcoin-silver,Bitcoin Silver,BTCS,1139,0.00696339,0.00000042,4680.1,,,50000000.0,,-2.08,-13.7,-22.87,1513188586,0.4483030482,301304.838,
+bitcoin-silver,Bitcoin Silver,BTCS,1139,0.00692573,0.00000042,4654.78,,,50000000.0,,-2.33,-14.16,-23.14,1513188885,0.4458784974,299674.7364,
+bitcoin-silver,Bitcoin Silver,BTCS,1140,0.00692573,0.00000042,4654.78,,,50000000.0,,-2.33,-14.16,-23.14,1513188885,0.4458784974,299674.7364,

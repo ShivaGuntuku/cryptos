@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+pinkdog,PinkDog,PDG,1297,0.000167098,0.00000001,9.19042,,,,,-1.14,-35.8,,1513187667,0.0107684635,592.26742648,
+pinkdog,PinkDog,PDG,1297,0.000167406,0.00000001,9.20733,,,,,-0.65,-34.5,,1513187967,0.0107775983,592.7679054,
+pinkdog,PinkDog,PDG,1297,0.000165358,0.00000001,9.09469,,,,,-1.31,-32.83,,1513188567,0.010645748,585.5161422,
+pinkdog,PinkDog,PDG,1297,0.000164192,0.00000001,9.03055,,,,,-1.86,-31.99,,1513188867,0.010570681,581.386809,
+pinkdog,PinkDog,PDG,1298,0.000164192,0.00000001,9.03055,,,,,-1.86,-31.99,,1513188867,0.010570681,581.386809,

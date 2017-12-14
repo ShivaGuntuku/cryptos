@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+turbocoin,TurboCoin,TURBO,1260,0.000167098,0.00000001,58.3971,,,,,-1.14,,,1513187675,0.0107684635,3763.3427124,
+turbocoin,TurboCoin,TURBO,1260,0.000167406,0.00000001,58.5046,,,,,-0.79,,,1513187974,0.0107775983,3766.526148,
+turbocoin,TurboCoin,TURBO,1260,0.000165358,0.00000001,57.7888,,,,,-1.43,,,1513188575,0.010645748,3720.442944,
+turbocoin,TurboCoin,TURBO,1260,0.000164192,0.00000001,57.3813,,,,,-1.86,,,1513188872,0.010570681,3694.208094,
+turbocoin,TurboCoin,TURBO,1261,0.000164192,0.00000001,57.3813,,,,,-1.86,,,1513188872,0.010570681,3694.208094,

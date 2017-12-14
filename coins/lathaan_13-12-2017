@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+lathaan,LAthaan,LTH,1279,0.00116969,0.00000007,27.6289,,,,,-1.14,,12.76,1513187664,0.0753795024,1780.5168316,
+lathaan,LAthaan,LTH,1279,0.00117184,0.00000007,27.6798,,,,,-0.45,,13.0,1513187967,0.0754430592,1782.025524,
+lathaan,LAthaan,LTH,1279,0.00115751,0.00000007,27.3411,,,,,-1.43,,11.57,1513188562,0.0745204938,1760.220018,
+lathaan,LAthaan,LTH,1279,0.00114934,0.00000007,27.1483,,,,,-1.86,,10.79,1513188860,0.0739945092,1747.807554,
+lathaan,LAthaan,LTH,1280,0.00114934,0.00000007,27.1483,,,,,-1.86,,10.79,1513188860,0.0739945092,1747.807554,

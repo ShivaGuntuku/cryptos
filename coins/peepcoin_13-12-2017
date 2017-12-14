@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+peepcoin,PeepCoin,PCN,1342,0.000174865,0.00000001,,,,,,,0.49,47.17,1513118678,0.0112690001,,
+peepcoin,PeepCoin,PCN,1342,0.000174865,0.00000001,,,,,,,0.44,47.51,1513118678,0.0112578087,,
+peepcoin,PeepCoin,PCN,1342,0.000174865,0.00000001,,,,,,,0.33,47.75,1513118678,0.0112578087,,
+peepcoin,PeepCoin,PCN,1342,0.000174865,0.00000001,,,,,,,0.31,47.75,1513118678,0.0112578087,,
+peepcoin,PeepCoin,PCN,1343,0.000174865,0.00000001,,,,,,,0.31,47.75,1513118678,0.0112578087,,

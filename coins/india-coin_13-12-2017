@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+india-coin,India Coin,INDIA,1233,0.000167098,0.00000001,130.193,,,,,-50.63,-51.99,-48.1,1513187681,0.0107684635,8390.157692,
+india-coin,India Coin,INDIA,1233,0.000167406,0.00000001,130.433,,,,,-50.22,-51.92,-48.36,1513187984,0.0107775983,8397.27654,
+india-coin,India Coin,INDIA,1233,0.000165358,0.00000001,128.837,,,,,-50.72,-52.56,-49.34,1513188582,0.010645748,8294.52606,
+india-coin,India Coin,INDIA,1233,0.000164192,0.00000001,127.928,,,,,-50.89,-52.91,-49.87,1513188884,0.010570681,8236.00464,
+india-coin,India Coin,INDIA,1234,0.000164192,0.00000001,127.928,,,,,-50.89,-52.91,-49.87,1513188884,0.010570681,8236.00464,

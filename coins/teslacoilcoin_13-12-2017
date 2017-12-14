@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+teslacoilcoin,TeslaCoilCoin,TESLA,1154,4.81177,0.00028796,2385.79,,,100000000.0,,-1.14,-3.97,22.55,1513187658,310.08970588,153749.85076,
+teslacoilcoin,TeslaCoilCoin,TESLA,1154,4.82063,0.00028796,2390.18,,,100000000.0,,-0.79,-3.85,22.77,1513187958,310.3521594,153879.7884,
+teslacoilcoin,TeslaCoilCoin,TESLA,1154,4.76165,0.00028796,2360.94,,,100000000.0,,-1.31,-5.13,19.71,1513188558,306.555027,151997.3172,
+teslacoilcoin,TeslaCoilCoin,TESLA,1154,4.72807,0.00028796,2344.29,,,100000000.0,,-1.78,-5.81,17.68,1513188859,304.3931466,150925.3902,
+teslacoilcoin,TeslaCoilCoin,TESLA,1155,4.72807,0.00028796,2344.29,,,100000000.0,,-1.78,-5.81,17.68,1513188859,304.3931466,150925.3902,

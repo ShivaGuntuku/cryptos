@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+first-bitcoin-capital,First Bitcoin Capital,BITCF,1146,0.129836,0.00000777,3515.96,,,3415923.0,,-1.14,-3.97,16.88,1513187678,8.367151184,226582.52624,
+first-bitcoin-capital,First Bitcoin Capital,BITCF,1146,0.130075,0.00000777,3522.44,,,3415923.0,,-0.79,-3.85,17.72,1513187978,8.3742285,226774.6872,
+first-bitcoin-capital,First Bitcoin Capital,BITCF,1146,0.128483,0.00000777,3479.34,,,3415923.0,,-1.31,-5.13,16.95,1513188579,8.27173554,223999.9092,
+first-bitcoin-capital,First Bitcoin Capital,BITCF,1146,0.127577,0.00000777,3454.8,,,3415923.0,,-1.86,-5.81,16.12,1513188877,8.21340726,222420.024,
+first-bitcoin-capital,First Bitcoin Capital,BITCF,1147,0.127577,0.00000777,3454.8,,,3415923.0,,-1.86,-5.81,16.12,1513188877,8.21340726,222420.024,

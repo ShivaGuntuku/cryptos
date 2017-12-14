@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+golos-gold,Golos Gold,GBG,1091,0.156233,0.00000935,73741.5,,,,,-1.33,-6.48,11.08,1513187667,10.068279452,4752197.226,
+golos-gold,Golos Gold,GBG,1091,0.156508,0.00000935,73872.4,,,,,-0.76,-6.35,11.33,1513187969,10.07598504,4755905.112,
+golos-gold,Golos Gold,GBG,1091,0.154668,0.00000935,74421.5,,,,,-1.73,-7.52,10.05,1513188567,9.95752584,4791256.17,
+golos-gold,Golos Gold,GBG,1091,0.15361,0.00000936,73911.5,,,,,-2.17,-8.17,9.34,1513188863,9.8894118,4758422.37,
+golos-gold,Golos Gold,GBG,1092,0.15361,0.00000936,73911.5,,,,,-2.17,-8.17,9.34,1513188863,9.8894118,4758422.37,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+avatarcoin,AvatarCoin,AV,1274,0.0551425,0.00000330,29.8769,,,,,-1.14,-3.68,27.54,1513187655,3.55360327,1925.3869436,
+avatarcoin,AvatarCoin,AV,1275,0.055244,0.00000330,29.9319,,,,,-0.79,-3.56,27.76,1513187955,3.55660872,1927.015722,
+avatarcoin,AvatarCoin,AV,1276,0.0545681,0.00000330,29.5657,,,,,-1.31,-4.84,26.01,1513188555,3.513094278,1903.439766,
+avatarcoin,AvatarCoin,AV,1275,0.0541833,0.00000330,29.3572,,,,,-1.86,-5.53,25.04,1513188855,3.488320854,1890.016536,
+avatarcoin,AvatarCoin,AV,1276,0.0541833,0.00000330,29.3572,,,,,-1.86,-5.53,25.04,1513188855,3.488320854,1890.016536,

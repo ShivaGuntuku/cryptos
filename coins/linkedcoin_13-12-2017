@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+linkedcoin,LinkedCoin,LKC,1250,0.000167098,0.00000001,75.3462,,,,,-0.97,-67.99,-35.45,1513187664,0.0107684635,4855.6105128,
+linkedcoin,LinkedCoin,LKC,1250,0.000167406,0.00000001,75.4849,,,,,-0.79,-67.95,-35.35,1513187960,0.0107775983,4859.717862,
+linkedcoin,LinkedCoin,LKC,1250,0.000165358,0.00000001,74.5614,,,,,-1.43,-68.38,-36.24,1513188559,0.010645748,4800.262932,
+linkedcoin,LinkedCoin,LKC,1250,0.000164192,0.00000001,74.0356,,,,,-1.86,-68.6,-36.72,1513188858,0.010570681,4766.411928,
+linkedcoin,LinkedCoin,LKC,1251,0.000164192,0.00000001,74.0356,,,,,-1.86,-68.6,-36.72,1513188858,0.010570681,4766.411928,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+independent-money-system,Independent Money System,IMS,741,0.0313685,0.00000188,701.589,168415.0,5368934.0,5368934.0,,-1.21,-34.1,75.67,1513187662,2.021511614,45213.201516,10853362.0
+independent-money-system,Independent Money System,IMS,741,0.0314309,0.00000188,702.96,168750.0,5368934.0,5368934.0,,-1.01,-33.96,76.27,1513187957,2.023521342,45256.5648,10864152.0
+independent-money-system,Independent Money System,IMS,736,0.0315063,0.00000191,717.37,169155.0,5368934.0,5368934.0,,-0.06,-33.71,77.33,1513188556,2.028375594,46184.2806,10890214.0
+independent-money-system,Independent Money System,IMS,736,0.0312765,0.00000190,712.296,167921.0,5368934.0,5368934.0,,-0.64,-34.14,76.06,1513188856,2.01358107,45857.61648,10810783.0
+independent-money-system,Independent Money System,IMS,737,0.0312765,0.00000190,712.296,167921.0,5368934.0,5368934.0,,-0.64,-34.14,76.06,1513188856,2.01358107,45857.61648,10810783.0

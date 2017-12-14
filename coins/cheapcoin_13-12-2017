@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+cheapcoin,Cheapcoin,CHEAP,1238,0.000167098,0.00000001,106.688,,,,,-67.05,-52.13,-42.19,1513187673,0.0107684635,6875.401472,
+cheapcoin,Cheapcoin,CHEAP,1238,0.000167406,0.00000001,106.885,,,,,-66.93,-52.05,-42.06,1513187973,0.0107775983,6881.2563,
+cheapcoin,Cheapcoin,CHEAP,1237,0.000165358,0.00000001,107.231,,,,,-67.14,-52.66,-42.33,1513188573,0.010645748,6903.53178,
+cheapcoin,Cheapcoin,CHEAP,1237,0.000164192,0.00000001,106.474,,,,,-67.29,-52.99,-42.74,1513188871,0.010570681,6854.79612,
+cheapcoin,Cheapcoin,CHEAP,1238,0.000164192,0.00000001,106.474,,,,,-67.29,-52.99,-42.74,1513188871,0.010570681,6854.79612,

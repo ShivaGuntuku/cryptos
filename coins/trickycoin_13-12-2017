@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+trickycoin,TrickyCoin,TRICK,1243,0.015206,0.00000091,89.5793,,,,,-1.27,,4.82,1513187652,0.979935464,5772.8484092,
+trickycoin,TrickyCoin,TRICK,1243,0.015234,0.00000091,89.7442,,,,,-0.79,,5.04,1513187951,0.98076492,5777.731596,
+trickycoin,TrickyCoin,TRICK,1243,0.0150476,0.00000091,88.6463,,,,,-1.31,,4.25,1513188551,0.968764488,5707.048794,
+trickycoin,TrickyCoin,TRICK,1243,0.0149415,0.00000091,88.0211,,,,,-1.86,,3.53,1513188851,0.96193377,5666.798418,
+trickycoin,TrickyCoin,TRICK,1244,0.0149415,0.00000091,88.0211,,,,,-1.86,,3.53,1513188851,0.96193377,5666.798418,

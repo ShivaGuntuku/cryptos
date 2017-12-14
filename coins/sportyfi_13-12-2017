@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+sportyfi,SportyFi,SPF,1102,0.262995,0.00001574,30559.7,,,37611519.0,,-1.14,,,1513187691,16.94844978,1969389.3068,
+sportyfi,SportyFi,SPF,1102,0.264489,0.00001580,30733.3,,,37611519.0,,-1.35,,,1513187992,17.02780182,1978609.854,
+sportyfi,SportyFi,SPF,1102,0.261824,0.00001583,30423.6,,,37611519.0,,-2.08,,,1513188593,16.85622912,1958671.368,
+sportyfi,SportyFi,SPF,1102,0.261824,0.00001583,30423.6,,,37611519.0,,-2.08,,,1513188593,16.85622912,1958671.368,
+sportyfi,SportyFi,SPF,1103,0.260407,0.00001586,30259.0,,,37611519.0,,-2.33,,,1513188891,16.76500266,1948074.42,

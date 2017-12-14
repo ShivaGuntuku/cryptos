@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+fireflycoin,FireFlyCoin,FFC,1254,0.000167098,0.00000001,69.9519,,,,,-0.97,-42.92,29.08,1513187651,0.0107684635,4507.9802436,
+fireflycoin,FireFlyCoin,FFC,1254,0.000167406,0.00000001,70.0807,,,,,-0.79,-42.86,29.32,1513187948,0.0107775983,4511.795466,
+fireflycoin,FireFlyCoin,FFC,1254,0.000165358,0.00000001,69.2233,,,,,-1.16,-43.64,27.51,1513188554,0.010645748,4456.596054,
+fireflycoin,FireFlyCoin,FFC,1254,0.000164192,0.00000001,68.7351,,,,,-1.78,-44.05,25.63,1513188850,0.010570681,4425.165738,
+fireflycoin,FireFlyCoin,FFC,1255,0.000164192,0.00000001,68.7351,,,,,-1.78,-44.05,25.63,1513188850,0.010570681,4425.165738,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+kashhcoin,KashhCoin,KASHH,1268,0.000139191,0.000000008,40.2984,,,,,-0.84,-20.01,9.31,1513187667,0.0089700248,2596.9900896,
+kashhcoin,KashhCoin,KASHH,1268,0.000139517,0.000000008,40.3512,,,,,-0.45,-19.87,9.42,1513187966,0.0089821045,2597.810256,
+kashhcoin,KashhCoin,KASHH,1267,0.000137462,0.000000008,39.964,,,,,-1.07,-21.13,7.62,1513188570,0.0088498036,2572.88232,
+kashhcoin,KashhCoin,KASHH,1268,0.000136724,0.000000008,39.6113,,,,,-1.6,-21.57,7.05,1513188865,0.0088022911,2550.175494,
+kashhcoin,KashhCoin,KASHH,1269,0.000136724,0.000000008,39.6113,,,,,-1.6,-21.57,7.05,1513188865,0.0088022911,2550.175494,

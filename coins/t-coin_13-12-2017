@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+t-coin,T-coin,TCOIN,1161,0.000309058,0.00000002,1555.16,,,,,13.95,77.55,-0.69,1513187666,0.0199169338,100220.73104,
+t-coin,T-coin,TCOIN,1162,0.000309627,0.00000002,1558.02,,,,,7.53,77.78,-0.77,1513187964,0.0199337863,100305.3276,
+t-coin,T-coin,TCOIN,1163,0.000305841,0.00000002,1538.96,,,,,-1.43,75.42,-2.46,1513188564,0.0196900436,99078.2448,
+t-coin,T-coin,TCOIN,1163,0.000303683,0.00000002,1528.11,,,,,-1.86,74.14,-3.15,1513188862,0.0195511115,98379.7218,
+t-coin,T-coin,TCOIN,1164,0.000303683,0.00000002,1528.11,,,,,-1.86,74.14,-3.15,1513188862,0.0195511115,98379.7218,

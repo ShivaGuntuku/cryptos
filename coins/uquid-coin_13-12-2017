@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+uquid-coin,Uquid Coin,UQC,1086,1.46473,0.00008766,147602.0,,,40000000.0,,12.29,,,1513187691,94.39306012,9512063.288,
+uquid-coin,Uquid Coin,UQC,1086,1.46697,0.00008763,147567.0,,,40000000.0,,9.88,,,1513187992,94.4435286,9500363.46,
+uquid-coin,Uquid Coin,UQC,1086,1.34333,0.00008124,147184.0,,,40000000.0,,-2.41,,,1513188592,86.4835854,9475705.92,
+uquid-coin,Uquid Coin,UQC,1085,1.34333,0.00008124,147184.0,,,40000000.0,,-2.41,,,1513188592,86.4835854,9475705.92,
+uquid-coin,Uquid Coin,UQC,1087,1.44323,0.00008790,146660.0,,,40000000.0,,3.18,,,1513188891,92.9151474,9441970.8,

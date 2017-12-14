@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+safecoin,SafeCoin,SFE,1324,0.000171988,0.00000001,,,,,,,-1.16,32.86,1513170862,0.0110835947,,
+safecoin,SafeCoin,SFE,1324,0.000171988,0.00000001,,,,,,,-1.22,32.78,1513170862,0.0110725874,,
+safecoin,SafeCoin,SFE,1324,0.000171988,0.00000001,,,,,,,-1.32,32.63,1513170862,0.0110725874,,
+safecoin,SafeCoin,SFE,1324,0.000171988,0.00000001,,,,,,,-1.34,32.56,1513170862,0.0110725874,,
+safecoin,SafeCoin,SFE,1325,0.000171988,0.00000001,,,,,,,-1.34,32.56,1513170862,0.0110725874,,

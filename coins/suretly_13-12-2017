@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+suretly,Suretly,SUR,1097,3.694,0.00022107,35275.9,,,237614.0,,-3.01,19.2,16.82,1513187679,238.056136,2273320.0996,
+suretly,Suretly,SUR,1097,3.60447,0.00021531,35465.0,,,237614.0,,-5.29,16.39,13.94,1513187980,232.0557786,2283236.7,
+suretly,Suretly,SUR,1098,3.5987,0.00021763,35115.4,,,237614.0,,-4.61,16.21,13.67,1513188582,231.684306,2260729.452,
+suretly,Suretly,SUR,1099,3.61532,0.00022019,34922.3,,,237614.0,,-3.56,16.66,14.18,1513188879,232.7543016,2248297.674,
+suretly,Suretly,SUR,1100,3.61532,0.00022019,34922.3,,,237614.0,,-3.56,16.66,14.18,1513188879,232.7543016,2248297.674,

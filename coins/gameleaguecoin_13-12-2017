@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+gameleaguecoin,GameLeagueCoin,GML,1311,0.0140363,0.00000084,2.10544,,,,,-1.14,46.66,,1513187648,0.9045553172,135.68297536,
+gameleaguecoin,GameLeagueCoin,GML,1311,0.0140621,0.00000084,2.10932,,,,,-0.79,46.85,,1513187946,0.905317998,135.7980216,
+gameleaguecoin,GameLeagueCoin,GML,1311,0.0138901,0.00000084,2.08351,,,,,-1.31,44.9,,1513188546,0.894244638,134.1363738,
+gameleaguecoin,GameLeagueCoin,GML,1311,0.0137921,0.00000084,2.06882,,,,,-1.86,43.85,,1513188847,0.887935398,133.1906316,
+gameleaguecoin,GameLeagueCoin,GML,1312,0.0137921,0.00000084,2.06882,,,,,-1.86,43.85,,1513188847,0.887935398,133.1906316,

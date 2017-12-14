@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+zilbercoin,Zilbercoin,ZBC,1182,0.0280462,0.00000168,722.81,,,9091996.0,,-1.21,-4.22,-26.65,1513187666,1.8074093128,46580.76764,
+zilbercoin,Zilbercoin,ZBC,1182,0.028094,0.00000168,724.022,,,9091996.0,,-0.71,-4.1,-26.5,1513187967,1.80869172,46612.53636,
+zilbercoin,Zilbercoin,ZBC,1157,0.01735,0.00000105,1902.14,,,9091996.0,,-38.32,-40.83,-54.53,1513188568,1.116993,122459.7732,
+zilbercoin,Zilbercoin,ZBC,1157,0.0172361,0.00000105,1889.19,,,9091996.0,,-38.63,-41.23,-54.82,1513188864,1.109660118,121626.0522,
+zilbercoin,Zilbercoin,ZBC,1158,0.0172361,0.00000105,1889.19,,,9091996.0,,-38.63,-41.23,-54.82,1513188864,1.109660118,121626.0522,

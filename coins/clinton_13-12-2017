@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+clinton,Clinton,CLINT,1267,0.0132008,0.00000079,40.3306,,,,,-1.14,-6.1,25.9,1513187663,0.8507123552,2599.0651864,
+clinton,Clinton,CLINT,1267,0.0132251,0.00000079,40.4048,,,,,-0.79,-5.93,26.13,1513187958,0.851431938,2601.261024,
+clinton,Clinton,CLINT,1268,0.0130633,0.00000079,39.9105,,,,,-1.43,-7.09,24.42,1513188557,0.841015254,2569.43799,
+clinton,Clinton,CLINT,1267,0.0129712,0.00000079,39.629,,,,,-1.86,-7.68,23.49,1513188857,0.835085856,2551.31502,
+clinton,Clinton,CLINT,1268,0.0129712,0.00000079,39.629,,,,,-1.86,-7.68,23.49,1513188857,0.835085856,2551.31502,

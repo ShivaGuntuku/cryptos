@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+voyacoin,Voyacoin,VOYA,1265,2.17412,0.00013011,42.6208,,,,,-0.97,-12.18,-23.02,1513187658,140.10898928,2746.6548352,
+voyacoin,Voyacoin,VOYA,1265,2.17812,0.00013011,42.6993,,,,,-0.45,-11.84,-22.76,1513187952,140.2273656,2748.980934,
+voyacoin,Voyacoin,VOYA,1265,2.15147,0.00013011,42.1769,,,,,-1.31,-11.85,-23.59,1513188552,138.5116386,2715.348822,
+voyacoin,Voyacoin,VOYA,1265,2.1363,0.00013011,41.8794,,,,,-1.86,-12.15,-24.13,1513188851,137.534994,2696.195772,
+voyacoin,Voyacoin,VOYA,1266,2.1363,0.00013011,41.8794,,,,,-1.86,-12.15,-24.13,1513188851,137.534994,2696.195772,

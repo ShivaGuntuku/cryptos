@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+wa-space,WA Space,WA,1209,0.0267358,0.00000160,357.343,,,,,-1.14,-3.97,22.7,1513187663,1.7229618952,23028.612292,
+wa-space,WA Space,WA,1209,0.026785,0.00000160,358.001,,,,,-0.79,-3.85,22.82,1513187963,1.7244183,23048.10438,
+wa-space,WA Space,WA,1209,0.0264573,0.00000160,353.621,,,,,-1.43,-5.13,21.21,1513188562,1.703320974,22766.11998,
+wa-space,WA Space,WA,1209,0.0262707,0.00000160,351.127,,,,,-1.78,-5.81,20.26,1513188864,1.691307666,22605.55626,
+wa-space,WA Space,WA,1210,0.0262707,0.00000160,351.127,,,,,-1.78,-5.81,20.26,1513188864,1.691307666,22605.55626,

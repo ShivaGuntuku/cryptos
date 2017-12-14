@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+eventchain,EventChain,EVC,1181,0.0839353,0.00000502,729.532,,,84000000.0,,-3.26,-13.67,28.64,1513187690,5.4091264732,47013.960208,
+eventchain,EventChain,EVC,1181,0.0844121,0.00000504,733.676,,,84000000.0,,-2.41,-13.15,29.43,1513187991,5.434450998,47234.06088,
+eventchain,EventChain,EVC,1182,0.0835614,0.00000505,726.282,,,84000000.0,,-2.08,-14.08,28.22,1513188591,5.379682932,46758.03516,
+eventchain,EventChain,EVC,1182,0.0835614,0.00000505,726.282,,,84000000.0,,-2.08,-14.08,28.22,1513188591,5.379682932,46758.03516,
+eventchain,EventChain,EVC,1183,0.0831094,0.00000506,722.354,,,84000000.0,,-2.33,-14.59,27.55,1513188891,5.350583172,46505.15052,

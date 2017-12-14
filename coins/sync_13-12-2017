@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+sync,Sync,SYNC,1246,501.295,0.03,83.5492,,,,,-0.97,90.11,-19.32,1513187646,32305.45498,5384.2446448,
+sync,Sync,SYNC,1246,502.218,0.03,83.703,,,,,-0.79,90.45,-19.17,1513187945,32332.79484,5388.79914,
+sync,Sync,SYNC,1246,496.074,0.03,82.679,,,,,-1.31,88.11,-20.3,1513188545,31937.24412,5322.87402,
+sync,Sync,SYNC,1246,492.575,0.03,82.0959,,,,,-1.78,86.92,-20.92,1513188845,31711.9785,5285.334042,
+sync,Sync,SYNC,1247,492.575,0.03,82.0959,,,,,-1.78,86.92,-20.92,1513188845,31711.9785,5285.334042,

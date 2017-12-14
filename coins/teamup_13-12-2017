@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+teamup,TeamUp,TEAM,1331,0.000518284,0.00000003,,,,301004896.0,,,0.22,103.82,1513099771,0.0334002941,,
+teamup,TeamUp,TEAM,1331,0.000518284,0.00000003,,,,301004896.0,,,0.22,103.82,1513099771,0.0333671239,,
+teamup,TeamUp,TEAM,1331,0.000518284,0.00000003,,,,301004896.0,,,0.23,103.78,1513099771,0.0333671239,,
+teamup,TeamUp,TEAM,1331,0.000518284,0.00000003,,,,301004896.0,,,0.25,103.74,1513099771,0.0333671239,,
+teamup,TeamUp,TEAM,1332,0.000518284,0.00000003,,,,301004896.0,,,0.25,103.74,1513099771,0.0333671239,,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+international-diamond,International Diamond,XID,1108,0.00868912,0.00000052,19718.9,,,,,-1.27,-3.97,-2.99,1513187661,0.5599616493,1270764.7916,
+international-diamond,International Diamond,XID,1108,0.00870512,0.00000052,19755.2,,,,,-0.79,-3.85,-2.81,1513187959,0.5604356256,1271839.776,
+international-diamond,International Diamond,XID,1107,0.00859862,0.00000052,19513.5,,,,,-1.16,-5.13,-4.21,1513188563,0.5535791556,1256279.13,
+international-diamond,International Diamond,XID,1107,0.00853797,0.00000052,19375.9,,,,,-1.86,-5.81,-4.88,1513188858,0.5496745086,1247420.442,
+international-diamond,International Diamond,XID,1108,0.00853797,0.00000052,19375.9,,,,,-1.86,-5.81,-4.88,1513188858,0.5496745086,1247420.442,

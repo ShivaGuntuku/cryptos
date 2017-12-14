@@ -1,0 +1,3 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+ethereum,Ethereum,ETH,2,729.103,0.0449401,4581070000.0,70230842829.0,96324995.0,96324995.0,,-0.96,17.69,68.75,1513220356,46903.19599,294700233100.0000000000,4517950119179
+ethereum,Ethereum,ETH,2,729.103,0.0449401,4581070000.0,70230842829.0,96324995.0,96324995.0,,-0.96,17.69,68.75,1513220356,46903.19599,294700233100.0000000000,4517950119179

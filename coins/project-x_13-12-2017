@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+project-x,Project-X,NANOX,800,45116.6,2.7,667.094,3531.0,0.0,1.0,,-1.14,9.12,-25.1,1513187672,2907494.1704,42990.205736,227552.0
+project-x,Project-X,NANOX,800,45199.7,2.7,668.322,3538.0,0.0,1.0,,-0.65,8.63,-25.11,1513187972,2909956.686,43026.57036,227745.0
+project-x,Project-X,NANOX,798,44646.7,2.7,660.146,3494.0,0.0,1.0,,-1.43,5.96,-26.21,1513188573,2874354.546,42500.19948,224958.0
+project-x,Project-X,NANOX,797,44331.8,2.7,655.49,3470.0,0.0,1.0,,-1.86,4.6,-26.76,1513188871,2854081.284,42200.4462,223372.0
+project-x,Project-X,NANOX,798,44331.8,2.7,655.49,3470.0,0.0,1.0,,-1.86,4.6,-26.76,1513188871,2854081.284,42200.4462,223372.0

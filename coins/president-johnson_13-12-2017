@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+president-johnson,President Johnson,GARY,1157,0.22976,0.00001375,1894.03,,,57968072167.0,,-1.09,-3.97,12.06,1513187661,14.80665344,122058.86932,
+president-johnson,President Johnson,GARY,1157,0.230183,0.00001375,1897.51,,,57968072167.0,,-0.79,-3.85,12.26,1513187960,14.81918154,122161.6938,
+president-johnson,President Johnson,GARY,1158,0.227367,0.00001375,1874.3,,,57968072167.0,,-1.43,-5.13,10.78,1513188560,14.63788746,120667.434,
+president-johnson,President Johnson,GARY,1158,0.225764,0.00001375,1861.08,,,57968072167.0,,-1.78,-5.81,9.94,1513188862,14.53468632,119816.3304,
+president-johnson,President Johnson,GARY,1159,0.225764,0.00001375,1861.08,,,57968072167.0,,-1.78,-5.81,9.94,1513188862,14.53468632,119816.3304,

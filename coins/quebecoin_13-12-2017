@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+quebecoin,Quebecoin,QBC,1296,0.00267358,0.00000016,9.21916,,,,,-1.14,-3.97,21.5,1513187646,0.1722961895,594.11954704,
+quebecoin,Quebecoin,QBC,1296,0.0026785,0.00000016,9.23613,,,,,-0.79,-3.87,21.66,1513187946,0.17244183,594.6220494,
+quebecoin,Quebecoin,QBC,1296,0.00264573,0.00000016,9.12313,,,,,-1.43,-5.13,20.03,1513188545,0.1703320974,587.3471094,
+quebecoin,Quebecoin,QBC,1296,0.00262707,0.00000016,9.05879,,,,,-1.78,-5.81,19.09,1513188846,0.1691307666,583.2049002,
+quebecoin,Quebecoin,QBC,1297,0.00262707,0.00000016,9.05879,,,,,-1.78,-5.81,19.09,1513188846,0.1691307666,583.2049002,

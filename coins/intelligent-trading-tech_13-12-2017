@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+intelligent-trading-tech,Intelligent Trading Tech,ITT,478,0.279782,0.00001674,1590.56,2741276.0,9797899.0,11500000.0,,7.49,28.79,56.86,1513187686,18.030271208,102502.04864,176658779.0
+intelligent-trading-tech,Intelligent Trading Tech,ITT,477,0.281371,0.00001681,1599.6,2756845.0,9797899.0,11500000.0,,8.43,29.67,57.85,1513187987,18.11466498,102982.248,177485661.0
+intelligent-trading-tech,Intelligent Trading Tech,ITT,479,0.278536,0.00001684,1583.48,2729068.0,9797899.0,11500000.0,,6.85,28.5,56.36,1513188586,17.93214768,101944.4424,175697374.0
+intelligent-trading-tech,Intelligent Trading Tech,ITT,478,0.277029,0.00001687,1574.91,2714302.0,9797899.0,11500000.0,,3.74,27.72,55.58,1513188887,17.83512702,101392.7058,174746776.0
+intelligent-trading-tech,Intelligent Trading Tech,ITT,479,0.277029,0.00001687,1574.91,2714302.0,9797899.0,11500000.0,,3.74,27.72,55.58,1513188887,17.83512702,101392.7058,174746776.0

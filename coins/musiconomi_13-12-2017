@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+musiconomi,Musiconomi,MCI,1145,0.0468443,0.00000280,3551.5,,,100000000.0,,-2.63,15.52,44.47,1513187681,3.0188340692,228872.866,
+musiconomi,Musiconomi,MCI,1145,0.0470517,0.00000281,3566.23,,,100000000.0,,-1.9,16.4,45.11,1513187983,3.029188446,229593.8874,
+musiconomi,Musiconomi,MCI,1145,0.0465446,0.00000281,3527.22,,,100000000.0,,-1.88,15.76,43.6,1513188582,2.996541348,227082.4236,
+musiconomi,Musiconomi,MCI,1145,0.0462682,0.00000282,3505.84,,,100000000.0,,-2.18,15.09,42.8,1513188882,2.978746716,225705.9792,
+musiconomi,Musiconomi,MCI,1146,0.0462682,0.00000282,3505.84,,,100000000.0,,-2.18,15.09,42.8,1513188882,2.978746716,225705.9792,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+segwit2x,SegWit2x [Futures],B2X,1072,196.265,0.0117455,596931.0,,,,,-3.47,-1.8,-3.96,1513187684,12648.10166,38468621.364,
+segwit2x,SegWit2x [Futures],B2X,1072,197.062,0.0117715,598470.0,,,,,-2.83,-1.47,-3.53,1513187985,12686.85156,38529498.6,
+segwit2x,SegWit2x [Futures],B2X,1072,196.32,0.0118724,577524.0,,,,,-2.6,-1.96,-3.83,1513188585,12639.0816,37180995.12,
+segwit2x,SegWit2x [Futures],B2X,1073,196.024,0.0119387,555604.0,,,,,-2.41,-2.12,-3.97,1513188883,12620.02512,35769785.52,
+segwit2x,SegWit2x [Futures],B2X,1074,196.024,0.0119387,555604.0,,,,,-2.41,-2.12,-3.97,1513188883,12620.02512,35769785.52,

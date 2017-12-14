@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+akuya-coin,Akuya Coin,AKY,1087,0.358928,0.00002148,119281.0,,,5202901.0,,1.44,69.99,144.81,1513187684,23.130756032,7686944.764,
+akuya-coin,Akuya Coin,AKY,1087,0.359588,0.00002148,119566.0,,,5202901.0,,2.19,70.26,144.82,1513187985,23.15027544,7697659.08,
+akuya-coin,Akuya Coin,AKY,1087,0.355024,0.00002147,117840.0,,,5202901.0,,0.76,66.15,141.4,1513188584,22.85644512,7586539.2,
+akuya-coin,Akuya Coin,AKY,1087,0.35252,0.00002147,117741.0,,,5202901.0,,1.56,64.68,139.7,1513188883,22.6952376,7580165.58,
+akuya-coin,Akuya Coin,AKY,1088,0.35252,0.00002147,117741.0,,,5202901.0,,1.56,64.68,139.7,1513188883,22.6952376,7580165.58,

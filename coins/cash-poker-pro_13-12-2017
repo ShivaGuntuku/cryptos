@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+cash-poker-pro,Cash Poker Pro,CASH,1191,0.0489619,0.00000293,610.624,,,100000000.0,,-3.1,-11.0,11.39,1513187686,3.1553006836,39351.053056,
+cash-poker-pro,Cash Poker Pro,CASH,1191,0.04924,0.00000294,614.093,,,100000000.0,,-2.41,-10.34,11.59,1513187987,3.1700712,39535.30734,
+cash-poker-pro,Cash Poker Pro,CASH,1191,0.0487437,0.00000295,607.904,,,100000000.0,,-2.08,-11.04,9.35,1513188586,3.138119406,39136.85952,
+cash-poker-pro,Cash Poker Pro,CASH,1191,0.0484801,0.00000295,604.616,,,100000000.0,,-2.33,-11.58,8.76,1513188885,3.121148838,38925.17808,
+cash-poker-pro,Cash Poker Pro,CASH,1192,0.0484801,0.00000295,604.616,,,100000000.0,,-2.33,-11.58,8.76,1513188885,3.121148838,38925.17808,

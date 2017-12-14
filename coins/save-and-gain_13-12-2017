@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+save-and-gain,Save and Gain,SANDG,1025,0.00339779,0.00000020,,10414.0,3064800.0,3064800.0,,,-2.37,-38.03,1513162454,0.2189671788,,671091.0
+save-and-gain,Save and Gain,SANDG,1026,0.00339779,0.00000020,,10414.0,3064800.0,3064800.0,,,-2.42,-38.09,1513162454,0.2187497202,,670424.0
+save-and-gain,Save and Gain,SANDG,1026,0.00339779,0.00000020,,10414.0,3064800.0,3064800.0,,,-2.53,-38.18,1513162454,0.2187497202,,670424.0
+save-and-gain,Save and Gain,SANDG,1026,0.00339779,0.00000020,,10414.0,3064800.0,3064800.0,,,-2.54,-38.2,1513162454,0.2187497202,,670424.0
+save-and-gain,Save and Gain,SANDG,1027,0.00339779,0.00000020,,10414.0,3064800.0,3064800.0,,,-2.54,-38.2,1513162454,0.2187497202,,670424.0

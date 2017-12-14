@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+xtd-coin,XTD Coin,XTD,1343,0.000173712,0.00000001,,,,,,,-0.17,34.26,1513172083,0.0111946961,,
+xtd-coin,XTD Coin,XTD,1343,0.000173712,0.00000001,,,,,,,-0.23,34.12,1513172083,0.0111835786,,
+xtd-coin,XTD Coin,XTD,1343,0.000173712,0.00000001,,,,,,,-0.33,33.96,1513172083,0.0111835786,,
+xtd-coin,XTD Coin,XTD,1343,0.000173712,0.00000001,,,,,,,-0.35,33.96,1513172083,0.0111835786,,
+xtd-coin,XTD Coin,XTD,1344,0.000173712,0.00000001,,,,,,,-0.35,33.96,1513172083,0.0111835786,,

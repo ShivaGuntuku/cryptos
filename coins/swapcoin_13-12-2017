@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+swapcoin,Swapcoin,SWP,1202,0.0905795,0.00000542,456.744,,,76403509.0,,-3.26,0.07,4.1,1513187683,5.837305298,29434.410336,
+swapcoin,Swapcoin,SWP,1201,0.0910939,0.00000544,459.339,,,76403509.0,,-2.41,0.76,4.74,1513187985,5.864625282,29572.24482,
+swapcoin,Swapcoin,SWP,1201,0.0901759,0.00000545,454.709,,,76403509.0,,-2.08,-0.16,3.78,1513188585,5.805524442,29274.16542,
+swapcoin,Swapcoin,SWP,1201,0.0896882,0.00000546,452.25,,,76403509.0,,-2.33,-0.76,3.21,1513188884,5.774126316,29115.855,
+swapcoin,Swapcoin,SWP,1202,0.0896882,0.00000546,452.25,,,76403509.0,,-2.33,-0.76,3.21,1513188884,5.774126316,29115.855,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+first-bitcoin,First Bitcoin,BIT,1285,0.0103601,0.00000062,16.4745,,,20707629255.0,,-1.14,-6.97,-11.65,1513187662,0.6676462844,1061.682678,
+first-bitcoin,First Bitcoin,BIT,1285,0.0103792,0.00000062,16.5048,,,20707629255.0,,-0.79,-6.85,-11.51,1513187960,0.668212896,1062.579024,
+first-bitcoin,First Bitcoin,BIT,1285,0.0102522,0.00000062,16.3029,,,20707629255.0,,-1.31,-8.09,-12.63,1513188561,0.660036636,1049.580702,
+first-bitcoin,First Bitcoin,BIT,1285,0.0101799,0.00000062,16.1879,,,20707629255.0,,-1.86,-8.76,-13.27,1513188860,0.655381962,1042.177002,
+first-bitcoin,First Bitcoin,BIT,1286,0.0101799,0.00000062,16.1879,,,20707629255.0,,-1.86,-8.76,-13.27,1513188860,0.655381962,1042.177002,

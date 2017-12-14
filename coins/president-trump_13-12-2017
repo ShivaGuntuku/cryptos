@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+president-trump,President Trump,PRES,1156,0.000906694,0.00000005,1971.65,,,57968072167.0,,-1.14,-30.14,-82.78,1513187663,0.0584309881,127061.0126,
+president-trump,President Trump,PRES,1156,0.000908363,0.00000005,1975.28,,,57968072167.0,,-0.45,-29.61,-82.77,1513187967,0.0584804099,127168.5264,
+president-trump,President Trump,PRES,1156,0.000897249,0.00000005,1951.11,,,57968072167.0,,-1.31,-30.17,-83.01,1513188560,0.0577648906,125612.4618,
+president-trump,President Trump,PRES,1156,0.000890922,0.00000005,1937.35,,,57968072167.0,,-1.86,-30.41,-83.13,1513188858,0.0573575584,124726.593,
+president-trump,President Trump,PRES,1157,0.000890922,0.00000005,1937.35,,,57968072167.0,,-1.86,-30.41,-83.13,1513188858,0.0573575584,124726.593,

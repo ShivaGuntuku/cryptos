@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+operand,Operand,OP,1323,0.00116468,0.00000007,,,,36309296.0,,-1.56,-8.35,1.73,1513186158,0.0750566379,,
+operand,Operand,OP,1323,0.00116468,0.00000007,,,,36309296.0,,-1.39,-8.05,1.73,1513186158,0.0749820984,,
+operand,Operand,OP,1323,0.00116468,0.00000007,,,,36309296.0,,-0.82,-7.44,1.71,1513186158,0.0749820984,,
+operand,Operand,OP,1323,0.00116468,0.00000007,,,,36309296.0,,-0.55,-7.11,1.7,1513186158,0.0749820984,,
+operand,Operand,OP,1324,0.00116468,0.00000007,,,,36309296.0,,-0.55,-7.11,1.7,1513186158,0.0749820984,,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+medishares,MediShares,MDS,1066,0.0320341,0.00000192,1132920.0,,,2000000000.0,,-1.69,,,1513187691,2.0644055404,73009896.48,
+medishares,MediShares,MDS,1066,0.0321657,0.00000192,1137220.0,,,2000000000.0,,-1.42,,,1513187992,2.070827766,73214223.6,
+medishares,MediShares,MDS,1066,0.0315139,0.00000191,1128400.0,,,2000000000.0,,-2.23,,,1513188593,2.028864882,72646392.0,
+medishares,MediShares,MDS,1066,0.0315139,0.00000191,1128400.0,,,2000000000.0,,-2.23,,,1513188593,2.028864882,72646392.0,
+medishares,MediShares,MDS,1067,0.0313858,0.00000191,1123950.0,,,2000000000.0,,-2.49,,,1513188891,2.020617804,72359901.0,

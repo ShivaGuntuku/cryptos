@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+vegascoin,VegasCoin,VGC,1269,0.000161618,0.000000010,38.5692,,,,,-1.28,-10.61,,1513187645,0.0104153104,2485.5535248,
+vegascoin,VegasCoin,VGC,1269,0.000161878,0.000000010,38.6242,,,,,-0.94,-10.69,,1513187945,0.0104217056,2486.625996,
+vegascoin,VegasCoin,VGC,1269,0.000160087,0.000000010,38.2314,,,,,-1.36,-11.94,,1513188545,0.0103064011,2461.337532,
+vegascoin,VegasCoin,VGC,1269,0.000158831,0.000000010,37.9087,,,,,-1.98,-12.77,,1513188844,0.0102255398,2440.562106,
+vegascoin,VegasCoin,VGC,1270,0.000158831,0.000000010,37.9087,,,,,-1.98,-12.77,,1513188844,0.0102255398,2440.562106,

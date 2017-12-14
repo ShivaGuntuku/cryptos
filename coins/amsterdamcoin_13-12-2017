@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+amsterdamcoin,AmsterdamCoin,AMS,1194,0.00503848,0.00000030,552.239,,,81243316.0,,-1.14,-10.08,6.97,1513187653,0.3246998051,35588.490116,
+amsterdamcoin,AmsterdamCoin,AMS,1204,0.00499713,0.00000030,407.73,,,81243371.0,,-1.57,-9.8,6.22,1513187954,0.3217152294,26249.6574,
+amsterdamcoin,AmsterdamCoin,AMS,1204,0.004936,0.00000030,402.741,,,81243371.0,,-2.3,-8.83,5.26,1513188554,0.31777968,25928.46558,
+amsterdamcoin,AmsterdamCoin,AMS,1204,0.00490119,0.00000030,399.901,,,81243371.0,,-2.84,-8.38,4.52,1513188853,0.3155386122,25745.62638,
+amsterdamcoin,AmsterdamCoin,AMS,1205,0.00490119,0.00000030,399.901,,,81243371.0,,-2.84,-8.38,4.52,1513188853,0.3155386122,25745.62638,

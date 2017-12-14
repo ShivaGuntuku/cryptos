@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+bt1-cst,BT1 [CST],BT1,1113,16380.9,0.980315,15226.7,,,,,-0.13,-3.72,27.74,1513187685,1055650.7196,981269.4548,
+bt1-cst,BT1 [CST],BT1,1115,16358.9,0.977196,13571.5,,,,,-0.16,-3.78,27.44,1513187986,1053185.982,873733.17,
+bt1-cst,BT1 [CST],BT1,1113,16342.8,0.98833,15192.5,,,,,-0.07,-3.72,27.12,1513188587,1052149.464,978093.15,
+bt1-cst,BT1 [CST],BT1,1113,16304.2,0.993,15019.7,,,,,-0.21,-3.94,26.82,1513188885,1049664.396,966968.286,
+bt1-cst,BT1 [CST],BT1,1114,16304.2,0.993,15019.7,,,,,-0.21,-3.94,26.82,1513188885,1049664.396,966968.286,

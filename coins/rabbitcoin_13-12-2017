@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+rabbitcoin,RabbitCoin,RBBT,1205,0.0000031887,0.0000000002,399.704,,,,,-2.59,-23.51,21.34,1513187650,0.0002054952,25758.524576,
+rabbitcoin,RabbitCoin,RBBT,1205,0.0000031986,0.0000000002,401.028,,,,,-2.29,-22.57,21.71,1513187947,0.0002059272,25818.18264,
+rabbitcoin,RabbitCoin,RBBT,1205,0.0000031624,0.0000000002,396.161,,,,,-2.47,-21.98,20.41,1513188548,0.0002035953,25504.84518,
+rabbitcoin,RabbitCoin,RBBT,1205,0.0000031360,0.0000000002,393.067,,,,,-3.29,-21.87,19.4,1513188847,0.0002018944,25305.65346,
+rabbitcoin,RabbitCoin,RBBT,1206,0.0000031360,0.0000000002,393.067,,,,,-3.29,-21.87,19.4,1513188847,0.0002018944,25305.65346,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+blazercoin,BlazerCoin,BLAZR,1249,0.00149505,0.00000009,81.4393,,,,,-0.76,-8.18,21.14,1513187669,0.0963470022,5248.2742492,
+blazercoin,BlazerCoin,BLAZR,1249,0.0014978,0.00000009,81.5892,,,,,-0.4,-7.81,21.23,1513187970,0.096428364,5252.712696,
+blazercoin,BlazerCoin,BLAZR,1249,0.00147947,0.00000009,80.591,,,,,-0.78,-8.02,19.59,1513188574,0.0952482786,5188.44858,
+blazercoin,BlazerCoin,BLAZR,1249,0.00146904,0.00000009,80.0227,,,,,-1.48,-8.18,18.69,1513188870,0.0945767952,5151.861426,
+blazercoin,BlazerCoin,BLAZR,1250,0.00146904,0.00000009,80.0227,,,,,-1.48,-8.18,18.69,1513188870,0.0945767952,5151.861426,

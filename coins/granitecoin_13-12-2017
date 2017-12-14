@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+granitecoin,Granite,GRN,1130,0.0177124,0.00000106,6829.65,,,,,-1.14,1.79,2.41,1513187649,1.1414579056,440129.9646,
+granitecoin,Granite,GRN,1130,0.017745,0.00000106,6842.22,,,,,-0.79,1.92,2.68,1513187947,1.1424231,440502.1236,
+granitecoin,Granite,GRN,1129,0.0175279,0.00000106,6758.51,,,,,-1.31,0.57,1.82,1513188548,1.128446202,435112.8738,
+granitecoin,Granite,GRN,1129,0.0174043,0.00000106,6710.85,,,,,-1.86,-0.16,1.1,1513188847,1.120488834,432044.523,
+granitecoin,Granite,GRN,1130,0.0174043,0.00000106,6710.85,,,,,-1.86,-0.16,1.1,1513188847,1.120488834,432044.523,

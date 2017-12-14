@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+gold-reward-token,GOLD Reward Token,GRX,1065,3.18511,0.00019061,1388480.0,,,20000000.0,,-1.45,-9.43,-44.77,1513187689,205.26122884,89479205.12,
+gold-reward-token,GOLD Reward Token,GRX,1065,3.28861,0.00019645,1388170.0,,,20000000.0,,2.75,-6.39,-42.91,1513187990,211.7207118,89370384.6,
+gold-reward-token,GOLD Reward Token,GRX,1065,3.12901,0.00018923,1339730.0,,,20000000.0,,-0.92,-10.88,-45.59,1513188590,201.4456638,86251817.4,
+gold-reward-token,GOLD Reward Token,GRX,1065,3.12901,0.00018923,1339730.0,,,20000000.0,,-0.92,-10.88,-45.59,1513188590,201.4456638,86251817.4,
+gold-reward-token,GOLD Reward Token,GRX,1066,3.10756,0.00018926,1340610.0,,,20000000.0,,-1.11,-11.41,-45.93,1513188889,200.0647128,86308471.8,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+bongger,Bongger,BGR,1169,0.000115088,0.000000007,1124.5,,,,,-2.74,-65.66,-16.46,1513187649,0.0074167311,72467.278,
+bongger,Bongger,BGR,1169,0.000115781,0.000000007,1131.27,,,,,-1.92,-65.34,-15.96,1513187948,0.0074539808,72831.1626,
+bongger,Bongger,BGR,1170,0.00011333,0.000000007,1107.32,,,,,-3.17,-65.83,-17.91,1513188547,0.0072961854,71289.2616,
+bongger,Bongger,BGR,1170,0.000113093,0.000000007,1105.01,,,,,-3.17,-65.78,-18.2,1513188848,0.0072809273,71140.5438,
+bongger,Bongger,BGR,1171,0.000113093,0.000000007,1105.01,,,,,-3.17,-65.78,-18.2,1513188848,0.0072809273,71140.5438,

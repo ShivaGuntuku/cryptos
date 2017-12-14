@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+uncoin,UNCoin,UNC,1292,0.000167098,0.00000001,12.1686,,,,,-1.14,,29.14,1513187651,0.0107684635,784.1932584,
+uncoin,UNCoin,UNC,1292,0.000167406,0.00000001,12.191,,,,,-0.45,,29.25,1513187960,0.0107775983,784.85658,
+uncoin,UNCoin,UNC,1292,0.000165358,0.00000001,12.0419,,,,,-1.31,,27.53,1513188551,0.010645748,775.257522,
+uncoin,UNCoin,UNC,1292,0.000164192,0.00000001,11.9569,,,,,-1.71,,26.53,1513188866,0.010570681,769.785222,
+uncoin,UNCoin,UNC,1293,0.000164192,0.00000001,11.9569,,,,,-1.71,,26.53,1513188866,0.010570681,769.785222,

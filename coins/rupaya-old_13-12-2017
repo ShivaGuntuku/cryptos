@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+rupaya-old,Rupaya [OLD],RUPX,1222,0.00384327,0.00000023,195.468,,,,,-1.14,27.26,-29.64,1513187688,0.2476756919,12596.739792,
+rupaya-old,Rupaya [OLD],RUPX,1222,0.00385034,0.00000023,195.828,,,,,-0.79,27.44,-29.56,1513187988,0.2478848892,12607.40664,
+rupaya-old,Rupaya [OLD],RUPX,1222,0.00380323,0.00000023,193.432,,,,,-1.43,25.77,-30.49,1513188588,0.2448519474,12453.15216,
+rupaya-old,Rupaya [OLD],RUPX,1222,0.00377641,0.00000023,192.068,,,,,-1.86,25.56,-30.98,1513188887,0.2431252758,12365.33784,
+rupaya-old,Rupaya [OLD],RUPX,1223,0.00377641,0.00000023,192.068,,,,,-1.86,25.56,-30.98,1513188887,0.2431252758,12365.33784,

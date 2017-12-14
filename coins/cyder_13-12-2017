@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+cyder,Cyder,CYDER,1277,0.000334197,0.00000002,28.7506,,,,,-1.14,-3.97,29.14,1513187680,0.0215369915,1852.8036664,
+cyder,Cyder,CYDER,1277,0.000334812,0.00000002,28.8036,,,,,-0.79,-3.85,29.32,1513187980,0.0215551966,1854.375768,
+cyder,Cyder,CYDER,1277,0.000330716,0.00000002,28.4512,,,,,-1.43,-5.13,27.51,1513188581,0.0212914961,1831.688256,
+cyder,Cyder,CYDER,1277,0.000328384,0.00000002,28.2505,,,,,-1.86,-5.81,26.61,1513188878,0.0211413619,1818.76719,
+cyder,Cyder,CYDER,1278,0.000328384,0.00000002,28.2505,,,,,-1.86,-5.81,26.61,1513188878,0.0211413619,1818.76719,

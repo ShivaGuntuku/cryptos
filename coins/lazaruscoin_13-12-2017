@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+lazaruscoin,Lazaruscoin,LAZ,1290,0.00200518,0.00000012,12.9662,,,,,-1.14,-15.14,3.31,1513187662,0.1292218199,835.5937928,
+lazaruscoin,Lazaruscoin,LAZ,1290,0.00200887,0.00000012,12.99,,,,,-0.45,-14.85,3.4,1513187964,0.1293310506,836.2962,
+lazaruscoin,Lazaruscoin,LAZ,1290,0.0019843,0.00000012,12.8311,,,,,-1.31,-15.64,2.01,1513188563,0.127749234,826.066218,
+lazaruscoin,Lazaruscoin,LAZ,1290,0.0019703,0.00000012,12.7406,,,,,-1.86,-16.08,1.29,1513188861,0.126847914,820.239828,
+lazaruscoin,Lazaruscoin,LAZ,1291,0.0019703,0.00000012,12.7406,,,,,-1.86,-16.08,1.29,1513188861,0.126847914,820.239828,

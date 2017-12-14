@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+shacoin,SHACoin,SHA,1256,0.00116969,0.00000007,67.9517,,,,,-1.14,-3.97,49.46,1513187646,0.0753795024,4379.0793548,
+shacoin,SHACoin,SHA,1256,0.00117184,0.00000007,68.0768,,,,,-0.79,-3.85,49.67,1513187946,0.0754430592,4382.784384,
+shacoin,SHACoin,SHA,1256,0.00115751,0.00000007,67.2439,,,,,-1.16,-5.13,47.58,1513188547,0.0745204938,4329.162282,
+shacoin,SHACoin,SHA,1256,0.00114934,0.00000007,66.7697,,,,,-1.86,-5.81,46.53,1513188845,0.0739945092,4298.633286,
+shacoin,SHACoin,SHA,1257,0.00114934,0.00000007,66.7697,,,,,-1.86,-5.81,46.53,1513188845,0.0739945092,4298.633286,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+cybermiles,CyberMiles,CMT,1055,0.179868,0.00001076,8443140.0,,,1000000000.0,,-1.6,-2.54,-5.23,1513187691,11.591413392,544109714.16,
+cybermiles,CyberMiles,CMT,1055,0.180336,0.00001077,8457360.0,,,1000000000.0,,-1.27,-2.49,-5.03,1513187992,11.61003168,544484836.8,
+cybermiles,CyberMiles,CMT,1055,0.178224,0.00001078,8366970.0,,,1000000000.0,,-1.84,-4.08,-6.25,1513188592,11.47406112,538665528.6,
+cybermiles,CyberMiles,CMT,1055,0.178224,0.00001078,8366970.0,,,1000000000.0,,-1.84,-4.08,-6.25,1513188592,11.47406112,538665528.6,
+cybermiles,CyberMiles,CMT,1056,0.177026,0.00001078,8245160.0,,,1000000000.0,,-2.24,-4.84,-6.94,1513188890,11.39693388,530823400.8,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+morningstar-payments,MorningStar,MRNG,1030,0.000262438,0.00000002,,8588.0,32723465.0,32723465.0,,,15.2,5.74,1513181084,0.0169125545,,553437.0
+morningstar-payments,MorningStar,MRNG,1030,0.000262438,0.00000002,,8588.0,32723479.0,32723479.0,,,14.98,6.46,1513181084,0.0168957584,,552888.0
+morningstar-payments,MorningStar,MRNG,1030,0.000262438,0.00000002,,8588.0,32723479.0,32723479.0,,,14.58,7.52,1513181084,0.0168957584,,552888.0
+morningstar-payments,MorningStar,MRNG,1030,0.000262438,0.00000002,,8588.0,32723479.0,32723479.0,,,14.39,7.52,1513181084,0.0168957584,,552888.0
+morningstar-payments,MorningStar,MRNG,1031,0.000262438,0.00000002,,8588.0,32723479.0,32723479.0,,,14.39,7.52,1513181084,0.0168957584,,552888.0

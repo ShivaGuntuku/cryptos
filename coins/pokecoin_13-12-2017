@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+pokecoin,PokeCoin,POKE,1328,0.000171413,0.00000001,,,,,,,,25.76,1513033462,0.0110465394,,
+pokecoin,PokeCoin,POKE,1328,0.000171413,0.00000001,,,,,,,,25.67,1513033462,0.0110355689,,
+pokecoin,PokeCoin,POKE,1328,0.000171413,0.00000001,,,,,,,,25.51,1513033462,0.0110355689,,
+pokecoin,PokeCoin,POKE,1328,0.000171413,0.00000001,,,,,,,,25.51,1513033462,0.0110355689,,
+pokecoin,PokeCoin,POKE,1329,0.000171413,0.00000001,,,,,,,,25.51,1513033462,0.0110355689,,

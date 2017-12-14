@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+opescoin,Opescoin,OPES,1320,0.00286694,0.00000017,,,,,,,-3.08,,1513150453,0.1847570814,,
+opescoin,Opescoin,OPES,1320,0.00286694,0.00000017,,,,,,,-3.14,,1513150453,0.1845735972,,
+opescoin,Opescoin,OPES,1320,0.00286694,0.00000017,,,,,,,-3.24,,1513150453,0.1845735972,,
+opescoin,Opescoin,OPES,1320,0.00286694,0.00000017,,,,,,,-3.26,,1513150453,0.1845735972,,
+opescoin,Opescoin,OPES,1321,0.00286694,0.00000017,,,,,,,-3.26,,1513150453,0.1845735972,,

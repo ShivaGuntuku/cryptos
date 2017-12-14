@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+infinity-pay,Infinity Pay,IPY,1287,0.00258798,0.00000015,14.6886,,,8000000.0,,-3.26,-5.74,19.0,1513187688,0.1667797831,946.5921384,
+infinity-pay,Infinity Pay,IPY,1287,0.00260268,0.00000016,14.772,,,8000000.0,,-1.82,-5.1,19.73,1513187992,0.1675605384,951.02136,
+infinity-pay,Infinity Pay,IPY,1286,0.00257645,0.00000016,14.6231,,,8000000.0,,-2.08,-5.96,18.62,1513188591,0.165871851,941.435178,
+infinity-pay,Infinity Pay,IPY,1286,0.00257645,0.00000016,14.6231,,,8000000.0,,-2.08,-5.96,18.62,1513188591,0.165871851,941.435178,
+infinity-pay,Infinity Pay,IPY,1287,0.00256252,0.00000016,14.544,,,8000000.0,,-2.33,-6.53,18.01,1513188889,0.1649750376,936.34272,

@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+techshares,TechShares,THS,1074,0.798998,0.00004782,558821.0,,,646359158.0,,-1.09,-7.34,24.13,1513187661,51.490627112,36012660.524,
+techshares,TechShares,THS,1074,0.800407,0.00004781,559809.0,,,646359158.0,,-0.43,-7.18,23.86,1513187963,51.53020266,36040503.42,
+techshares,TechShares,THS,1074,0.791042,0.00004784,552920.0,,,646359158.0,,-1.25,-8.42,21.77,1513188561,50.92728396,35596989.6,
+techshares,TechShares,THS,1074,0.785713,0.00004785,549181.0,,,646359158.0,,-1.78,-9.09,20.79,1513188860,50.58420294,35356272.78,
+techshares,TechShares,THS,1075,0.785713,0.00004785,549181.0,,,646359158.0,,-1.78,-9.09,20.79,1513188860,50.58420294,35356272.78,

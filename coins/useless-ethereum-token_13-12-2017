@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+useless-ethereum-token,Useless Ethereum Token,UET,980,0.00979237,0.00000059,71.5926,38834.0,3965716.0,3965716.0,,-3.1,-4.0,-14.98,1513187675,0.6310594923,4613.7135144,2502603.0
+useless-ethereum-token,Useless Ethereum Token,UET,980,0.00984799,0.00000059,71.9993,39054.0,3965716.0,3965716.0,,-2.41,-3.51,-14.51,1513187975,0.6340135962,4635.314934,2514318.0
+useless-ethereum-token,Useless Ethereum Token,UET,997,0.00765973,0.00000046,269.349,30376.0,3965716.0,3965716.0,,-23.07,-25.13,-33.53,1513188575,0.4931334174,17340.68862,1955627.0
+useless-ethereum-token,Useless Ethereum Token,UET,997,0.0076183,0.00000046,267.893,30212.0,3965716.0,3965716.0,,-23.26,-25.62,-33.91,1513188874,0.490466154,17246.95134,1945050.0
+useless-ethereum-token,Useless Ethereum Token,UET,998,0.0076183,0.00000046,267.893,30212.0,3965716.0,3965716.0,,-23.26,-25.62,-33.91,1513188874,0.490466154,17246.95134,1945050.0

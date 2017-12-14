@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+animecoin,Animecoin,ANI,1229,0.000167098,0.00000001,141.125,,,,,-1.14,-51.99,-28.18,1513187644,0.0107684635,9094.6595,
+animecoin,Animecoin,ANI,1229,0.000167406,0.00000001,141.385,,,,,-0.65,-51.92,-27.85,1513187943,0.0107775983,9102.3663,
+animecoin,Animecoin,ANI,1229,0.000165358,0.00000001,139.655,,,,,-1.43,-52.56,-28.24,1513188543,0.010645748,8990.9889,
+animecoin,Animecoin,ANI,1229,0.000164192,0.00000001,138.67,,,,,-1.78,-52.91,-28.5,1513188843,0.010570681,8927.5746,
+animecoin,Animecoin,ANI,1230,0.000164192,0.00000001,138.67,,,,,-1.78,-52.91,-28.5,1513188843,0.010570681,8927.5746,

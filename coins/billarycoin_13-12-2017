@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+billarycoin,BillaryCoin,BLRY,929,0.0104013,0.00000059,,93529.0,8992040.0,8992040.0,,,1.46,34.14,1513104260,0.6703013772,,6027377.0
+billarycoin,BillaryCoin,BLRY,929,0.0104013,0.00000059,,93529.0,8992040.0,8992040.0,,,1.44,34.07,1513104260,0.669635694,,6021391.0
+billarycoin,BillaryCoin,BLRY,928,0.0104013,0.00000059,,93529.0,8992040.0,8992040.0,,,1.38,33.92,1513104260,0.669635694,,6021391.0
+billarycoin,BillaryCoin,BLRY,927,0.0104013,0.00000059,,93529.0,8992040.0,8992040.0,,,1.35,33.63,1513104260,0.669635694,,6021391.0
+billarycoin,BillaryCoin,BLRY,928,0.0104013,0.00000059,,93529.0,8992040.0,8992040.0,,,1.35,33.63,1513104260,0.669635694,,6021391.0

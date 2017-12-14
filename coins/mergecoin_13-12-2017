@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+mergecoin,MergeCoin,MGC,1144,0.0106943,0.00000064,3616.99,,,100000000.0,,-1.14,-2.19,-16.9,1513187671,0.6891834692,233093.30356,
+mergecoin,MergeCoin,MGC,1144,0.010714,0.00000064,3623.64,,,100000000.0,,-0.65,-2.19,-16.83,1513187971,0.68976732,233289.9432,
+mergecoin,MergeCoin,MGC,1144,0.0105829,0.00000064,3579.31,,,100000000.0,,-1.16,-3.62,-17.94,1513188572,0.681327102,230435.9778,
+mergecoin,MergeCoin,MGC,1144,0.0105083,0.00000064,3554.07,,,100000000.0,,-1.78,-4.32,-18.52,1513188869,0.676524354,228811.0266,
+mergecoin,MergeCoin,MGC,1145,0.0105083,0.00000064,3554.07,,,100000000.0,,-1.78,-4.32,-18.52,1513188869,0.676524354,228811.0266,

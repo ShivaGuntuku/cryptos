@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+ormeus-coin,Ormeus Coin,ORME,1069,2.95663,0.00017694,810069.0,,,200000000.0,,-1.28,-3.14,14.73,1513187681,190.53706372,52204086.636,
+ormeus-coin,Ormeus Coin,ORME,1069,2.96209,0.00017694,811568.0,,,200000000.0,,-0.8,-3.01,14.95,1513187982,190.6993542,52248747.84,
+ormeus-coin,Ormeus Coin,ORME,1068,2.92589,0.00017694,801648.0,,,200000000.0,,-1.44,-4.25,13.56,1513188582,188.3687982,51610098.24,
+ormeus-coin,Ormeus Coin,ORME,1068,2.90536,0.00017695,795922.0,,,200000000.0,,-1.79,-4.92,12.76,1513188883,187.0470768,51241458.36,
+ormeus-coin,Ormeus Coin,ORME,1069,2.90536,0.00017695,795922.0,,,200000000.0,,-1.79,-4.92,12.76,1513188883,187.0470768,51241458.36,

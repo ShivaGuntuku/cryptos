@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+infinity-economics,Infinity Economics,XIN,1080,0.0233938,0.00000140,219349.0,,,9000000000.0,,0.72,1.52,-22.32,1513187683,1.5075900472,14135726.956,
+infinity-economics,Infinity Economics,XIN,1080,0.0229346,0.00000137,217188.0,,,9000000000.0,,-1.5,-0.4,-23.85,1513187983,1.476529548,13982563.44,
+infinity-economics,Infinity Economics,XIN,1081,0.0228194,0.00000138,211755.0,,,9000000000.0,,-2.84,-0.86,-24.23,1513188582,1.469112972,13632786.9,
+infinity-economics,Infinity Economics,XIN,1081,0.0229869,0.00000140,206793.0,,,9000000000.0,,-1.86,-0.03,-23.67,1513188883,1.479896622,13313333.34,
+infinity-economics,Infinity Economics,XIN,1082,0.0229869,0.00000140,206793.0,,,9000000000.0,,-1.86,-0.03,-23.67,1513188883,1.479896622,13313333.34,

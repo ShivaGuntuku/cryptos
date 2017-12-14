@@ -1,0 +1,6 @@
+id,name,symbol,rank,price_usd,price_btc,24h_volume_usd,market_cap_usd,available_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,last_updated,price_inr,24h_volume_inr,market_cap_inr
+birds,Birds,BIRDS,1302,0.000167098,0.00000001,5.01295,,,,,-1.14,-3.96,,1513187677,0.0107684635,323.0545498,
+birds,Birds,BIRDS,1302,0.000167406,0.00000001,5.02218,,,,,-0.79,-3.84,,1513187977,0.0107775983,323.3279484,
+birds,Birds,BIRDS,1302,0.000165358,0.00000001,4.96074,,,,,-1.43,-5.11,,1513188578,0.010645748,319.3724412,
+birds,Birds,BIRDS,1302,0.000164192,0.00000001,4.92575,,,,,-1.86,-5.8,,1513188875,0.010570681,317.119785,
+birds,Birds,BIRDS,1303,0.000164192,0.00000001,4.92575,,,,,-1.86,-5.8,,1513188875,0.010570681,317.119785,
