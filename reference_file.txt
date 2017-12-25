@@ -1,0 +1,18 @@
+installation of MongoDB in Linux Powered Systems:
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+GUI for MongoDB application:
+https://www.mongodb.com/download-center?jmp=tutorials&_ga=2.260526794.635645132.1513961016-980574563.1513536599#compass
+install MongoDB driver to connect with python.
+pip install pymongo 
+which can communicate with mongodb
+mongodb is NoSQL database.
+D3js Using for the visualization of Charts.
+
+References:
+D3js:
+https://d3js.org/
+https://www.tutorialspoint.com/d3js/
+
+flask:
+pip install flask 
+as well as install all packages which are listed in requirement.txt 

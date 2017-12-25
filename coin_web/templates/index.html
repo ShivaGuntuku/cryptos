@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello...</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+	<style> 
+     .line {
+        fill: none;
+        stroke: green;
+        stroke-width: 5px;
+     }
+  </style>
+</head>
+<body>
+	<svg width="960" height="500"></svg>
+	<h1>Hello World</h1>
+	
+	<!-- <table class="table table-bordered">
+		<tr>
+			<td>Date</td>
+			<td>High</td>
+			<td>Low</td>
+			<td>Open</td>
+			<td>Close</td>
+		</tr>
+		{% for res in results %}
+		<tr>
+			<td>{{res['Date']}}</td>
+			<td>{{res['High']}}</td>
+			<td>{{res['Low']}}</td>
+			<td>{{res['Open']}}</td>
+			<td>{{res['Close']}}</td>
+		</tr>
+		{% endfor %}
+	</table> -->
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+	<script>
+		// getting data from mongodb
+		var chartData = {{ results | safe }};
+		<script>
+
+		var svg = d3.select("svg"),
+		    margin = {top: 20, right: 20, bottom: 30, left: 50},
+		    width = +svg.attr("width") - margin.left - margin.right,
+		    height = +svg.attr("height") - margin.top - margin.bottom,
+		    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+		var parseTime = d3.timeParse("%d-%b-%y");
+
+		var x = d3.scaleTime()
+		    .rangeRound([0, width]);
+
+		var y = d3.scaleLinear()
+		    .rangeRound([height, 0]);
+
+		var area = d3.area()
+		    .x(function(d) { return x(d.date); })
+		    .y1(function(d) { return y(d.close); });
+
+		d3.tsv("data.tsv", function(d) {
+		  d.date = parseTime(d.date);
+		  d.close = +d.close;
+		  return d;
+		}, function(error, data) {
+		  if (error) throw error;
+
+		  x.domain(d3.extent(data, function(d) { return d.date; }));
+		  y.domain([0, d3.max(data, function(d) { return d.close; })]);
+		  area.y0(y(0));
+
+		  g.append("path")
+		      .datum(data)
+		      .attr("fill", "steelblue")
+		      .attr("d", area);
+
+		  g.append("g")
+		      .attr("transform", "translate(0," + height + ")")
+		      .call(d3.axisBottom(x));
+
+		  g.append("g")
+		      .call(d3.axisLeft(y))
+		    .append("text")
+		      .attr("fill", "#000")
+		      .attr("transform", "rotate(-90)")
+		      .attr("y", 6)
+		      .attr("dy", "0.71em")
+		      .attr("text-anchor", "end")
+		      .text("Price ($)");
+		});
+
+</script>
+</body>
+</html>
