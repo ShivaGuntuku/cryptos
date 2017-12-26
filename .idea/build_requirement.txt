@@ -1,0 +1,15 @@
+Make JS function:On change Currency draw the line graph 
+Compare multiple currency 2 or more up to 5
+On Hover information: open,high,volume, market cap
+View Graph custom Way(like by months, data, range etc...)
+biography of all the coins:
+	1. White Paper
+	2. Developed Data
+	3. Market Capitalization
+	4. ICO Price
+	5. Markets(currency exchange site)
+	6. calculate the value
+WatchList : Instant messaging according to price drop and price increases
+need live data all over the coins.
+
+Apply Machine Learning Algorithms to understand the Market strategy 
