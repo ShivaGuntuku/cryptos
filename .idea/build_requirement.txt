@@ -13,3 +13,7 @@ WatchList : Instant messaging according to price drop and price increases
 need live data all over the coins.
 
 Apply Machine Learning Algorithms to understand the Market strategy 
+
+
+portfolio management:
+here you can see how much invested on which day the price is up and down with line chart.

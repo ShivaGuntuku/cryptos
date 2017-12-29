@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello...</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+	<style> 
+     .line {
+        fill: none;
+        stroke: green;
+        stroke-width: 5px;
+     }
+  </style>
+</head>
+<body>
+	<svg width="960" height="500"></svg>
+	<h1>Hello World</h1>
+	
+	<!-- <table class="table table-bordered">
+		<tr>
+			<td>Date</td>
+			<td>High</td>
+			<td>Low</td>
+			<td>Open</td>
+			<td>Close</td>
+		</tr>
+		{% for res in results %}
+		<tr>
+			<td>{{res['Date']}}</td>
+			<td>{{res['High']}}</td>
+			<td>{{res['Low']}}</td>
+			<td>{{res['Open']}}</td>
+			<td>{{res['Close']}}</td>
+		</tr>
+		{% endfor %}
+	</table> -->
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+	<script>
+		// getting data from mongodb
+		var data = {{ results | safe }};
+
+</script>
+</body>
+</html>

@@ -35,7 +35,7 @@ def get_csv(coin_id, end_date, start_date=20130428):
 
 
 current_date = datetime.today().strftime('%Y%m%d')
-coins = get_coins('https://api.coinmarketcap.com/v1/ticker/?limit=10')
+coins = get_coins('https://api.coinmarketcap.com/v1/ticker/?limit=1')
 print ("there are %d coins..", len(coins))
 for coin in coins:
     get_csv(coin, current_date)

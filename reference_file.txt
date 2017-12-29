@@ -12,7 +12,23 @@ References:
 D3js:
 https://d3js.org/
 https://www.tutorialspoint.com/d3js/
+https://github.com/d3/d3/blob/master/API.md#time-intervals-d3-time
+https://bl.ocks.org/
+https://github.com/d3/d3/wiki
 
 flask:
 pip install flask 
 as well as install all packages which are listed in requirement.txt 
+
+
+StackOverflow Reference for Queries:
+https://stackoverflow.com/questions/37110506/in-flask-how-do-i-call-data-from-another-function-route-in-another-view-as-expla
+https://stackoverflow.com/questions/10784018/how-can-i-remove-or-replace-svg-content
+http://www.d3noob.org/2013/02/update-d3js-data-dynamically-button.html
+
+
+FIFO
+LIFO
+
+Show a pop msg if internet not connected but trying to perform operations.now application exit from main screen it should be stopped.
+application close button.
